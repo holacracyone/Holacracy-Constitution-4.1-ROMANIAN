@@ -1,168 +1,168 @@
-# **Holacracy Constitution**
+# **Constituția Holocrației**
 
 
-### PREAMBLE
+### PREAMBUL
 
-This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
+Această **_”Constituție”_** definește regulile și procedurile pentru Guvernanță și operarea unei organizații. **_”Semnatarii”_** adoptă aceste reguli ca și structură formală de autoritate pentru **_”Organizație”_** înainte de adoptarea acestei Constituții, care poate fi o întreagă entitate sau o parte a acesteia și în care ”Semnatarii” au autoritatea de conducere și Guvernanță. ”Semnatarii” și oricine altcineva care agreează să ia parte din Guvernanța și operarea organizației (**_”Partenerii”_** ei) se pot baza pe autoritățile oferite de această Constituție, precum și să se conformeze la îndatoririle și constrângerile acesteia. 
 
-## Article I: Energizing Roles
+## ARTICOLUL I: ROLURI ENERGIZANTE
 
-### 1.1 Definition of a Role
+### 1.1 DEFINIREA UNUI ROL
 
-The Organization’s Partners will typically perform work for the Organization by acting in an explicitly defined Role. A **_“Role”_** is an organizational construct with a descriptive name and one or more of the following:
+Partenerii Organizației vor efectua activități lucrative pentru Organizație în contextul definit explicit al unui Rol. Un **_”Rol”_** reprezintă un construct organizațional cu un nume descriptiv și una sau mai multe din următoarele:
 
-- **(a)** a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
-- **(b)** one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
-- **(c)** one or more **_“Accountabilities”_**, which are ongoing activities of the Organization that the Role will enact.
+- **(a)** un **_“Scop”_**, ce reprezintă o capacitate, un potențial sau un obiectiv nerealizat pe care Rolul îl va urmări sau manifesta pentru Organizație.
+- **(b)** unul sau mai multe **_“Domenii”_**, care sunt lucruri pe care Rolul poate să le controleze și reglementeze în mod exclusiv ca și proprietatea sa, în numele Organizației.
+- **(c)** una sau mai multe **_“Responsabilități”_**, care sunt activități continue ale Organizației pe care Rolul le va efectua. 
 
-### 1.2 Responsibilities of Role-Filling
+### 1.2 RESPONSABILITĂȚILE ÎNDEPLINIRII UNUI ROL
 
-As a Partner of the Organization, you have the following responsibilities for each Role that you are assigned to and agree to fill:
+Ca și Partener al Organizației, ai următoarele responsabilități pentru fiecare rol care ți-a fost alocat și ai agreat să îl îndeplinești:
 
-#### 1.2.1 Processing Tensions
+#### 1.2.1 PROCESAREA TENSIUNILOR
 
-You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You are also responsible for trying to resolve those Tensions by using the authorities and other mechanisms available to you under this Constitution.
+Ești responsabil de monitorizarea modului in care Scopul și Responsabilitățile Rolului tău sunt clar definite, să le compari cu propria ta viziune de manifestare ideală a acestuia, de a identifica diferențele dintre realitatea curentă și expresia potențialului lui ideal (fiecare diferență este o **_”Tensiune”_**). Ești de asemenea responsabil de a încerca rezolvarea acestor Tensiuni folosindu-te de autoritățile și alte mecanisme disponibile în această Constituție. 
 
-#### 1.2.2 Processing Purpose & Accountabilities
+#### 1.2.2 URMĂRIREA SCOPULUI ȘI RESPONSABILITĂȚILOR 
 
-You are responsible for regularly considering how to enact your Role's Purpose and each of your Role’s Accountabilities, by defining:
+Ești responsabil de a considera în mod regulat cum să adopți Scopul Rolului și fiecare din Responsabilitățile sale, definind: 
 
-- **(a)** **_“Next-Actions”_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
-- **(b)** **_“Projects”_**, which are specific outcomes that require multiple sequential actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
+- **(a)** **_"Acțiunile Următoare"_**, care sunt acțiuni pe care le poți executa imediat și care sunt utile să fie executate imediat, cel puțin în absența unor priorități concurente; și 
+- **(b)** **_"Proiecte"_**, care sunt rezultate specifice ce necesită realizarea de mai multe acțiuni secvențiale și care sunt utile spre a fi realizate, cel puțin în lipsa unor priorități concurente. 
 
-#### 1.2.3 Processing Projects
+#### 1.2.3 PROCESAREA PROIECTELOR
 
-You are responsible for regularly considering how to complete each Project you are actively working towards for your Role, including by defining any Next-Actions useful to move the Project forward.
+Ești responsabil spre a considera în mod regulat cum să completezi fiecare Proiect la care lucrezi în mod activ în cadrul Rolului tău, inclusiv prin definirea de ”Acțiuni Următoare” necesare să duci proiectul mai departe.
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+#### 1.2.4 URMĂRIREA PROIECTELOR, ACȚIUNILOR URMĂTOARE ȘI A TENSIUNILOR
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in a database or similar tangible form, and for regularly reviewing and updating that database to maintain it as a trusted list of the Role’s active and potential work. You are also responsible for tracking any Tensions you identify for your Role, at least until you process them into desired Projects or Next-Actions, or otherwise resolve them.
+Ești responsabil pentru colectarea și urmărirea tuturor Proiectelor tale și a Acțiunilor Următoare ce țin de Rolul tău într-o bază de date sau o altă formă tangibilă, precum și pentru revizia și aducerea la zi a acestei baze de date încât ea să reprezinte o sursă credibilă a muncii prezente și viitoare din Rolul tău. Ești responsabil de asemenea pentru urmărirea oricărei tensiuni identificate în Rolul tău, cel puțin până când le vei procesa în Proiecte și Acțiuni Următoare dorite sau sunt rezolvate.
 
-#### 1.2.5 Directing Attention & Resources
+#### 1.2.5 DIRECȚIONAREA ATENȚIEI ȘI RESURSELOR
 
-Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization from among that subset.
+Oricând ai timp disponibil să acționezi în Rolul tău, ești responsabil pentru a lua în calcul potențialele Acțiuni Următoare pe care le poți efectua în mod eficient și eficace în acel moment de timp, și să execuți orice crezi de cuviință că va aduce cea mai mare valoare Organizației în acel context.
 
-### 1.3 Authority to Act
+### 1.3 AUTORITATEA DE ACȚIUNE
 
-As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are useful for enacting your Role’s Purpose or Accountabilities.
+Ca și Partener care și-a asumat un Rol, ai autoritatea de a executa orice Acțiune Următoare consideri tu de cuviință a fi folositoare în îndeplinirea Scopului și Responsabilităților Rolului.
 
-However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission. The authority granted in this paragraph is further limited by Section 2.1.3.
+Însă nu poți să îți exerciți controlul sau să cauzezi un impact material într-un Domeniu deținut de un alt Rol sau altă entitate suverană, decât dacă ai permisiunea lor. Autoritatea oferită în acest paragraf este mai clar specificată în Secțiunea 2.1.3.
 
-### 1.4 Authority Over Domains
+### 1.4 AUTORITATEA PESTE DOMENII
 
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
+Ca și Partener care și-a asumat un rol, ai autoritatea de a controla și reglementa fiecare Domeniu al Rolului tău. Poți face asta de la caz la caz atunci când alții îți cer permisiunea să îți influențeze unul din Domeniile tale, prin a lua în considerare solicitarea și a-i permite sau nu permisiunea.
 
-You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
+Poți de asemenea să definești **_”Politici”_** pentru Domeniile tale, care sunt ori concesii de autoritate care le permite altora controlul sau să cauzeze un impact în cadrul Domeniului tău, sau să limiteze modul în care alții pot acționa când sunt autorizați. Înainte ca o Politică să fie validă, ea trebuie publicată într-un forum accesibil tuturor Partenerilor care vor fi influențați de aceasta.
 
-The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
+Autoritatea oferită în acest paragraf este mai clar specificată în Secțiunea 2.1.3.
 
+## ARTICOLUL II STRUCTURA CERCULUI
 
-## Article II: Circle Structure
+### 2.1 BAZELE CERCULUI
 
-### 2.1 Circle Basics
+Un **_“Cerc”_** este un Rol care poate fi sub-divizat definindu-și propriile Roluri pentru a-și atinge Scopul, să își controleze Domeniile și să-și adopte Responsabilitățile. Rolurile pe care Cercul le definește sunt **_”Roluri Definite”_** și oricine își asumă un astfel de rol devine un **_”Membru al Cercului”_**.
 
-A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. The Roles a Circle defines are its **_“Defined Roles”_**, and anyone filling one of its Defined Roles is a **_“Circle Member”_** of that Circle.
+#### 2.1.1 DEFINIREA ROLURILOR ȘI POLITICILOR
 
-#### 2.1.1 Defining Roles & Policies
+Fiecare Cerc va folosi **_”Procesul de Guvernanță”_** descris în Articolul III al acestei Constituții pentru a defini și a amenda Roluri în cadrul Cercului sau Politici care guvernează Domeniul Cercului. Nimeni nu poate defini sau amenda un Rol sau o Politică a Cercului în afara Procesului de Guvernanță, decât dacă este în mod explicit permis de o altă regulă a acestei Constituții. 
 
-Each Circle will use the **_“Governance Process”_** described in Article III of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domain. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
+În plus, fiecare Cerc poate să își controleze propriile funcții și activități, precum și Domeniul Cercului, în scopul definirii Politicilor care limitează Rolurile din Cerc.
 
-Further, each Circle may control its own functions and activities, as if a Domain of the Circle, for the purpose of defining Policies that limit the Circle’s Roles.
+#### 2.1.2 ROLURILE POT IMPACTA DOMENIILE CERCULUI
 
-#### 2.1.2 Roles May Impact Circle Domains
+Când împlinești un Rol în cerc, poți utiliza și impacta orice Domeniu controlat de Cerc sau pe care Cercul este autorizat să îl impacteze. Totuși, trebuie să te supui la orice reglementare asupra Cercului sau definită printr-o Politică a Cercului, și nu vei putea controla sau reglementa în totalitate Domeniul conform termenilor din Secțiunea 1.4.
 
-When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or that the Circle is authorized to impact. However, you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle, and you may not fully control or regulate the Domain under the terms of Section 1.4.
+În plus, nu poți transfera sau elimina un Domeniu sau orice alt activ din acel Domeniu, sau să limitezi în mod semnificativ vreun drept al Cercului asupra Domeniului. Oricum, aceste restricții nu se aplică dacă un Rol sau un proces care deține autoritatea necesară îți oferă permisiunea să o faci.
 
-Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. However, these restrictions do not apply if a Role or process holding the needed authority grants you permission to do so.
+#### 2.1.3 DELEGAREA CONTROLULUI
 
-#### 2.1.3 Delegation of Control
+Când un Cerc definește un Domeniu asupra unui Rol, autoritatea Cercului de a impacta, controla și reglementa respectivul Domeniu este delegată acelui Rol și scoasă din Cerc.
 
-When a Circle defines a Domain upon one of its Roles, the Circle’s authority to impact, control, and regulate that Domain is instead delegated to that Role and removed from the Circle.
+Oricum, Cercul menține dreptul de a amenda sau revoca delegarea acelui Domeniu, sau să definească sau modifice Politicile care vor susține sau constrânge autoritatea Rolului în acel Domeniu. 
 
-However, the Circle retains the right to amend or remove that Domain delegation, or to define or modify Policies that further grant or constrain the Role’s authority within the Domain.
+În principiu, orice Domeniu delegat în acest mod exclude autoritatea de a elimina efectiv Domeniul sau orice alt activ semnificativ din acel Domeniu, sau să fie transferat în afara Cercului, sau să limiteze semnificativ vreun drept al Cercului asupra Domeniului. De asemenea, un cerc poate delega aceste autorități limitate, prin oferirea în mod explicit a permisiunii în cadrul unei Politici a Cercului.
 
-By default, any Domains delegated in this way exclude the authority to dispose of the Domain itself or any significant assets within the Domain, or to transfer those assets outside of the Circle, or to significantly limit any rights of the Circle to the Domain. A Circle may delegate these retained authorities as well, by explicitly granting the desired permissions in a Policy of the Circle.
+În orice caz, toate delegările de Domenii sunt întotdeauna limitate la autoritatea pe care Cercul o avea în prima instanță. 
 
-In any case, all Domain delegations are always limited to whatever authority the Circle itself had in the first place.
+### 2.2 LEAD-LINK-UL CERCULUI
 
-### 2.2 Circle Lead Link
+Fiecare cerc are un **_”Rol de Lead-Link”_** a cărui responsabilitate și autoritate sunt definite în Anexa A, precum și în această secțiune.
 
-Each Circle has a **_“Lead Link Role”_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section.
+Persoana care împlinește Rolul de Lead Link, atâta timp cât acționează în această capacitate, va fi menționat ca și **_”Lead Link”_** al cercului. 
 
-The person filling the Lead Link Role, while acting in that capacity, is referred to as the Circle’s **_“Lead Link”_**.
+#### 2.2.1 DEȚINE FUNCȚII NEDIFERENȚIATE
 
-#### 2.2.1 Holds Undifferentiated Functions
+Lead Link-ul cercului moștenește Scopul și Responsabilitățile efective ale cercului, și controlează orice Domeniu definit de cerc, ca și când cercul ar avea un singur rol și Lead Link-ul ar împlini acel Rol. Oricum, acest lucru este valabil doar dacă acele Responsabilități și Domenii nu au fost poziționate într-un alt Rol din cadrul cercului sau delegat într-un alt mod.
 
-A Circle’s Lead Link inherits the Purpose and any Accountabilities on the Circle itself, and controls any Domains defined on the Circle, just as if the Circle were only a Role and the Lead Link filled that Role. However, this only applies to the extent that those Accountabilities and Domains have not been placed upon a Role within the Circle, or otherwise delegated.
+De menționat că Lead Link-ul nu poate formula Politici care să limiteze in vreun fel Rolurile cercului, cu excepția procesului de Guvernanță a cercului. 
 
-Further, the Lead Link may not define Policies that limit the Circle’s Roles, except via the Governance Process of the Circle.
+#### 2.2.2 DEFINEȘTE PRIORITĂȚI & STRATEGII
 
-#### 2.2.2 Defines Priorities & Strategies
+Lead Link-ul cercului poate defini prioritățile relative pentru cerc.
 
-A Circle’s Lead Link may define relative priorities for the Circle.
+În plus, Lead Link-ul poate defini o **_”Strategie”_** pentru cerc, sau mai multe strategii, care să fie folosită ca și ghid pentru Rolurile din cerc în a-și stabili în mod continuu propriile priorități.
 
-In addition, the Lead Link may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
+#### 2.2.3 MODIFICAREA ROLULUI DE LEAD LINK
 
-#### 2.2.3 Amending the Lead Link Role
+Un cerc nu poate adăuga alte Responsabilități sau alte funcțiuni la propriul Lead Link, să îi schimbe Scopul Rolului, sau să îndepărteze Rolul cu totul.
 
-A Circle may not add Accountabilities or other functions to its own Lead Link Role, or modify the Role’s Purpose, or remove the Role entirely. 
+Oricum, un cerc poate să retragă orice Responsabilitate, Domenii, autorități sau funcțiuni avute de Rolul de Lead Link, ori prin plasarea lor la un alt Rol din același cerc, sau prin definirea de modalități alternative de a fi îndeplinite. 
+Când acest lucru se întâmplă, în mod automat orice element relevant sau autoritate a Rolului de Lead Link va fi îndepărtată, atâta timp cât delegarea este activă.
 
-However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Lead Link Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Lead Link Role, for as long as the delegation remains in place.
+### 2.3 MEMBRII DE BAZĂ AI CERCULUI
 
-### 2.3 Core Circle Members
+La o parte din Membrii Cercului le este permis să ia parte la Procesul de Guvernanță al Cercului și sunt numiți **_”Membrii de Baza ai Cercului”_**.
 
-Some Circle Members are allowed to take part in a Circle’s Governance Process, and are thus **_“Core Circle Members”_** of the Circle.
+Acești **_”Membrii de Baza ai Cercului”_** sunt aleși prin utilizarea următoarelor reguli:
 
-The Core Circle Members are determined using the following rules:
+#### 2.3.1 CALITATEA DE MEMBRU
 
-#### 2.3.1 Base Membership
+În afara cazurilor explicite menționate în această secțiune sau în cazul unei numiri speciale, Membrii de Baza ai Cercului sunt: 
 
-Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
+- **(a)** fiecare Partener care împlinește un Rol Definit în Cerc, 
+- **(b)** Lead Link-ul Cercului, așa cum e definit în Secțiunea 2.2;
+- **(c)** fiecare Rep Link ales de către Cerc, așa cum e definit în Secțiunea 2.6. 4;
+- **(d)** și fiecare Cross Link din Cerc, precum e definit in Secțiunea 2.7.
 
-- **(a)** each Partner filling a Defined Role in the Circle;
-- **(b)** the Lead Link of the Circle, as defined in Section 2.2;
-- **(c)** each Rep Link elected to the Circle, as defined in Section 2.6.4;
-- **(d)** and each Cross Link into the Circle, as defined in Section 2.7.
+#### 2.3.2 EXCLUDERE PENTRU ROLURI MULTIPLE
 
-#### 2.3.2 Exclusion for Multi-Filled Roles
+Dacă mai mulți Parteneri sunt alocați la același Rol Definit din Cerc, Cercul poate să adopte o Politică care să limiteze câți dintre aceștia sunt Membrii de Bază ai Cercului ca urmare a alocării acelui Rol. Însă, acea Politică trebuie să permită cel puțin unui Partener care împlinește acel Rol să îl reprezinte ca și Membru de Bază al Cercului și trebuie să specifice modul în care acel reprezentant va fi determinat.
 
-If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined.
+În plus, fiecare Partener care reprezintă acel Rol are datoria de a lua în considerare și a procesa Tensiunile vehiculate de Partenerii excluși, în același mod prin care un Rep Link o face ca Rol al unui Sub-Cerc, cu excepția cazului în care există o Politică care definește în mod alternativ o modalitate prin care Partenerii excluși să își proceseze Tensiunile legate de acel Rol.
 
-In addition, any Partners representing the Role have the duty to consider and process Tensions conveyed by the excluded Partners, exactly as a Rep Link would were the Role a Sub-Circle, unless the Policy defines an alternate pathway for the excluded Partners to process Tensions related to that Role.
+#### 2.3.3 EXCLUDERE PENTRU ALOCĂRI MINORE
 
-#### 2.3.3 Exclusion for Minor Allocations
+Uneori, un Partener poate aloca o atenție minimă, aproape insignifiantă unui Rol Definit dintr-un Cerc. Dacă Lead Link-ul Cercului crede în mod rezonabil că așa stau lucrurile, acesta poate exclude respectivul Partener din funcția de Membru de Bază a Cercului.
 
-Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes this is the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
+Dacă un Partener a fost exclus în acest mod, Lead Link-ul are datoria de a lua în considerare și a procesa Tensiunea cauzată de excluderea acelui Partener, la fel cum un Rep Link o face ca Rol al unui Sub-Cerc, cu excepția cazului în care există o Politică care definește în mod alternativ o modalitate prin care Partenerii excluși să își proceseze Tensiunile legate de acel Rol.
 
-If a Partner is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
+#### 2.3.4 NUMIRI SPECIALE DE MEMBRII DE BAZĂ
 
-#### 2.3.4 Special Appointments of Core Members
+Lead Link-ul unui Cerc poate numi în mod special o persoană adițională pentru a servi ca Membru de Baza a Cercului, în afara specificațiilor acestei Constituții, și poate îndepărta această numire specială în orice moment.
 
-The Lead Link of a Circle may specially appoint additional persons to serve as Core Circle Members of a Circle, beyond those required by this Constitution, and may further remove these special appointments at any time.
+### 2.4 ATRIBUIREA ROLURILOR
 
-### 2.4 Role Assignment
+Lead Link-ul unui Cerc poate atribui oamenilor Roluri Definite de Cerc pe care aceștia să le împlinească, cu excepția cazului în care această autoritate i-a fost limitată sau delegată.
 
-The Lead Link of a Circle may assign people to fill Defined Roles in the Circle, unless that authority has been limited or delegated.
+#### 2.4.1 ROLURI NEOCUPATE
 
-#### 2.4.1 Unfilled Roles
+Oricând un Rol Definit din Cerc nu este ocupat, Lead Link-ul acelui Cerc se consideră că împlinește și acel Rol.
 
-Whenever a Defined Role in a Circle is unfilled, the Circle’s Lead Link is considered to be filling the Role.
+#### 2.4.2 ATRIBUIREA ACELUIAȘI ROL LA MAI MULTE PERSOANE
 
-#### 2.4.2 Assigning Roles to Multiple People
+Un Lead Link poate atribui același Rol Definit la mai multe persoane, atâta timp cât acest lucru nu va afecta negativ claritatea asupra la cine trebuie să împlinească Responsabilitățile și autoritățile acelui Rol în contextul standard de operare. 
 
-A Lead Link may assign multiple people to the same Defined Role, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
+Ca și modalitate de a păstra claritatea, un Lead Link poate specifica un ”Focus” pentru fiecare sarcină, care poate fi o zonă sau un context pentru aceea persoană la care ea să se concentreze atâta timp cât execută acel Rol.
 
-As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role.
+Când un Rol atribuit include un Focus, atunci Scopul, Responsabilitățile și Domeniile definite pentru acel Rol sunt aplicabile doar în cadrul particular al acelui Focus.
 
-When a Role assignment includes a Focus, the Purpose, Accountabilities, and Domains defined for the Role apply just within the specified Focus for that particular person.
+#### 2.4.3 RENUNȚAREA LA ROLURI
 
-#### 2.4.3 Resignation from Roles
+Când împlinești un Rol, poți renunța la acesta în orice moment, cu excepția cazului în care este agreat altcumva, printr-un preaviz către cine controlează alocarea acelui rol – tipic, către Lead Link-ul Cercului.
 
-When you fill a Role, you may resign from the Role at any time, unless you’ve agreed otherwise, by giving notice to whoever controls assignments to that Role – typically, the Circle’s Lead Link.
+### 2.5 ROLURI VOTATE
 
-### 2.5 Elected Roles
-
-Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_**, and a **_“Rep Link Role”_** with the definitions given in Appendix A. These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Secretary”_**, or **_“Rep Link”_** when acting in the capacity of the Elected Role.
+Fiecare Cerc include un **_”Rol de Facilitator”_**, un **_”Rol de Secretar”_**, si un **_”Rol de Rep Link”_** după definițiile oferite in Anexa A. Acestea sunt **_”Rolurile Votate”_** ale Cercului, iar persoanele care împlinesc aceste roluri devin **_”Facilitatorul”_**, **_”Secretarul”_** sau **_”Rep Link-ul”_** Cercului.
 
 #### 2.5.1 Elections & Eligibility
 
