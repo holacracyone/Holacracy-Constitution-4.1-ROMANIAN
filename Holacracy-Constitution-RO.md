@@ -1,6 +1,5 @@
 # **Constituția Holocrației**
 
-
 ### PREAMBUL
 
 Această **_”Constituție”_** definește regulile și procedurile pentru Guvernanță și operarea unei organizații. **_”Semnatarii”_** adoptă aceste reguli ca și structură formală de autoritate pentru **_”Organizație”_** înainte de adoptarea acestei Constituții, care poate fi o întreagă entitate sau o parte a acesteia și în care ”Semnatarii” au autoritatea de conducere și Guvernanță. ”Semnatarii” și oricine altcineva care agreează să ia parte din Guvernanța și operarea organizației (**_”Partenerii”_** ei) se pot baza pe autoritățile oferite de această Constituție, precum și să se conformeze la îndatoririle și constrângerile acesteia. 
@@ -164,452 +163,454 @@ Când împlinești un Rol, poți renunța la acesta în orice moment, cu excepț
 
 Fiecare Cerc include un **_”Rol de Facilitator”_**, un **_”Rol de Secretar”_**, si un **_”Rol de Rep Link”_** după definițiile oferite in Anexa A. Acestea sunt **_”Rolurile Votate”_** ale Cercului, iar persoanele care împlinesc aceste roluri devin **_”Facilitatorul”_**, **_”Secretarul”_** sau **_”Rep Link-ul”_** Cercului.
 
-#### 2.5.1 Elections & Eligibility
+#### 2.5.1 ALEGERI ȘI ELIGIBILITATE
 
-The Facilitator of each Circle will facilitate regular elections to elect a Core Circle Member of the Circle into each of its Elected Roles, using the process and rules defined in Article III.
+Facilitatorul fiecărui Cerc va facilita alegerile regulate în vederea alegerii unui Membru de Baza a Cercului în fiecare din Rolurile Votate, folosind procesul și regulile definite în Articolul III.
 
-All Core Circle Members are eligible for election and each may hold multiple Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
+Toți Membrii De Baza ai Cercului sunt eligibili pentru alegeri si fiecare pot deține mai multe Roluri Votate, cu excepția Lead Link-ului Cercului, care nu poate fi ales ca si Facilitator sau Rep Link.
 
-#### 2.5.2 Election Terms & Revisiting
+#### 2.5.2 DURATA MANDATULUI ȘI RECANDIDATURA
 
-During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article III.
+În timpul procesului de alegeri, Facilitatorul va specifica durata mandatului fiecărui rol ales. După ce un mandat expiră, Secretarul este responsabil să solicite imediat noi alegeri pentru un Rol Votat. Oricum, chiar și înainte de expirarea mandatului, oricare Membru de Bază al Cercului poate declanșa noi alegeri folosindu-se de procesul definit in Articolul III. 
 
-#### 2.5.3 Amending Elected Roles
+#### 2.5.3 MODIFICAREA ROLURILOR ALESE
 
-A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.
+Un Cerc poate adăuga Responsabilități sau Domenii la Rolurile Votate, precum  și să le modifice sau să le reprime ulterior.
 
-However, a Circle may only add to its own Rep Link Role and not to a Rep Link Role appointed to the Circle by a Sub-Circle.
+Însă, un Cerc poate adăuga aceste lucruri doar la propriul Rol de Rep Link și nu la un Rep Link delegat în Cerc de un alt Sub-Cerc.
 
-Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
+În plus, nici un Cerc nu poate modifica sau elimina Scopul, Domeniul, Responsabilitățile sau autoritățile oferite unui Rol Votat prin această Constituție, sau să elimine integral un Rol Votat.
 
-#### 2.5.4 Surrogates for Elected Roles
+#### 2.5.4 ÎNLOCUITOR PENTRU ROLURI VOTATE
 
-A surrogate may temporarily fill an Elected Role when one is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.
+Un înlocuitor poate temporar funcționa ca și Rol Votat atunci când Rolul este vacant sau când persoana care în mod normal împlinește acel Rol este indisponibilă pentru o întâlnire a Cercului sau se simte în incapacitate sau lipsă de motivație să își exercite îndatoririle date de Rol.
 
-In any given instance where a surrogate is needed, the surrogate is, in this order of precedence:
+În oricare din aceste situații, atunci când e necesar un înlocuitor, acesta este stabilit în ordinea următoare:
 
-- **(a)** someone explicitly specified by the person to be replaced; or
-- **(b)** the acting Facilitator of the Circle; or
-- **(c)** the acting Secretary of the Circle; or
-- **(d)** the Lead Link of the Circle; or
-- **(e)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
+- **(a)** cineva specificat explicit de deținătorul de drept al Rolului, sau de
+- **(b)** Facilitatorul curent al Cercului, sau de
+- **(c)** Secretarul curent al Cercului, sau de 
+- **(d)** Lead Link-ul Cercului, sau de 
+- **(e)** Primul Membru de Baza al Cercului care se auto-propune să fie înlocuitor.
 
-### 2.6 Sub-Circles
+### 2.6 SUB-CERCURI
 
-A Circle may expand its Defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
+Un Cerc își poate extinde Rolurile Definite în alte Cercuri, prin Procesul De Guvernanță. Când se întâmplă acest lucru, noul Cerc format devine un **_”Sub-Cerc”_**, iar Cercul inițial va fi **_”Super-Cercul”_** acestui nou Sub–Cerc.
 
-#### 2.6.1 Modifying Sub-Circles
+#### 2.6.1 MODIFICAREA SUB-CERCURILOR
 
-A Circle may modify the Purpose, Domain, or Accountabilities on a Sub-Circle. 
+Un Cerc poate modifca Scopul, Domeniul sau Responsabilitățile unui Sub-Cerc.
 
-A Circle may also move its own Defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself.
+Un Cerc poate de asemenea să își mute propriile Roluri Definite sau Politici într-un Sub-Cerc sau să aducă înapoi în Cerc orice a fost delegat unui Sub-Cerc.
 
-Any of these modifications may only be done via the Governance Process of the Circle.
+Oricare din aceste modificări pot fi realizate doar prin Procesul de Guvernanță al Cercului.
 
-Beyond these allowed changes, a Circle may not modify any Defined Roles or Policies held within a Sub-Circle.
+În afară de acest tip de modificări, un Cerc nu poate corecta nici un Rol sau Politică care aparține Sub-Cercului.
 
-#### 2.6.2 Removing Sub-Circles
+#### 2.6.2 ELIMINAREA UNUI SUB-CERC
 
-Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle and everything within entirely, or by selectively retaining certain elements of the Sub-Circle within the Circle. A Sub-Circle may also be removed by collapsing it from a Circle back into just a Role.
+Prin Procesul de Guvernanță, un cerc poate elimina un Sub-Cerc. Acest lucru se poate realiza prin eliminarea Sub-Cercului și a tot ce este conținut în acesta sau prin menținerea selectivă a unor elemente din Sub-Cerc in Cerc. Un Sub-Cerc mai poate fi eliminat și prin reducerea acestuia de la nivel de Cerc la nivel de Rol.
 
-#### 2.6.3 Lead Link to Sub-Circle
+#### 2.6.3 LEAD LINK-UL DIN SUB-CERC
 
-A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Defined Role of the Circle.
+Un Lead Link al Cercului poate numi persoane care să împlinească Rolul de Lead Link pentru fiecare Sub-Cerc, utilizând aceleași reguli de numire pentru un Lead Link ca și pentru oricare Rol Definit din Cerc.
 
-#### 2.6.4 Rep Link to Super-Circle
+#### 2.6.4 REP LINK-UL DIN SUPER-CERC
 
-Each Circle normally elects a Rep Link to its Super-Circle. However, this election is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle. In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
+Fiecare Cerc își alege în mod normal un Rep Link pentru Supra-Cercul său. Însă, această alegere nu e necesară atunci când un Cerc duce lipsă de alți Membrii de Bază în afară de Lead Link sau de Cross Link. În acest caz, chiar dacă au loc alegeri, Rep Link-ul votat nu va deveni Membru de Baza al Supra-Cercului.
 
-### 2.7 Cross Linking
+### 2.7 CROSS LINK-UL
 
-A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate within another Circle’s Governance Process and operations. The entity or group that is invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization. The Circle that will receive this link is the **_“Target Circle”_**, and it must be the Circle creating the Policy, or one of its Sub-Circles.
+Un Cerc poate crea o **_”Politică de Cross Link”_** prin care invită orice entitate sau grup spre a participa în cadrul Procesului de Guvernanță al cercului și a operațiunilor sale. Entitatea sau grupul invitate să participe vor fi **_”Entitate Link”_** și poate fi externă organizației sau poate fi un Rol sau un alt Cerc din interiorul organizației. Cercul care va primi acest link va fi numit **_”Cerc Țintă”_** și trebuie să fie Cercul care a formulat această Politică sau unul din Sub-Cercurile sale.
 
-Once a Cross Link Policy is adopted, the Linked Entity may assign a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
+Odată ce o Politică de Cross Link este adoptată, ”Entitatea Link” poate desemna un reprezentant să participe în Cercul Țintă sub condițiile acestei secțiuni, în afara cazului în care termeni alternativi sunt prevăzuți în Politica formulată.
 
-#### 2.7.1 Cross Link Role
+#### 2.7.1 ROLUL DE CROSS LINK
 
-If the Linked Entity is a Role, then that Role may participate in the Target Circle as described below. It becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**.
+Dacă Entitatea Link este un Rol, atunci acel Rol poate participa în Cercul Țintă precum este descris mai jos. Acesta devine **_”Rolul de Cross Link”_**, iar persoana care îl împlinește devine un **_”Cross Link”_**.
 
-If the Linked Entity is a Circle or a group, then a new special-purpose Cross Link Role is automatically created instead, and resides within both the Linked Entity and the Target Circle, much like a Rep Link. In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle.
+Dacă Entitatea Link este un Cerc sau grup, atunci un nou Rol De Cross Link este creat automat în locul ei și se va situa între Entitatea Link și Cercul Țintă, la fel precum un Rep Link. În acest caz, Rolul de Cross Link are același Scop și Responsabilități ca un Rep Link, dar în ”Cercul” la care se face referință în descrierea Rolului de ”Rep Link” avem în loc Entitatea Link, și “Super-Cercul” însemnând Cercul Țintă.
 
-If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, then the Cross Link Policy must further clarify what the Cross Link Role will represent within the Target Circle.
+Dacă Entitatea Link nu are un Scop clar și Responsabilități clare, atunci Politica la Cross Link trebuie să clarifice care e Rolul la Cross Link în Cercul Țintă.
 
-#### 2.7.2 Cross Link Assignment
+#### 2.7.2 MISIUNEA LA CROSS LINK
 
-If the Linked Entity is a Circle or group, it may assign someone to fill the Cross Link Role using whatever process it already has for assigning people to fill Defined Roles or similar work functions.
+Dacă Entitatea Link este un cerc sau un grup, poate desemna o persoană să împlinească Rolul de Cross Link folosind orice proces este folosit deja pentru a desemna oameni să împlinească Roluri Definite sau funcții de muncă similare.
 
-If a Linked Entity represents a group with no single locus of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.
+Dacă Entitatea Link reprezintă un grup fără un punct clar de autoritate care să finalizeze acea sarcină, atunci Cercul Țintă poate desemna pe cineva ca și Rol de Cross Link, cu excepția cazului în care se prevede altfel în Politica de Cross Link.
 
-In all cases, only one person may be assigned to each Cross Link Role, unless allowed by the Cross Link Policy. 
+În toate cazurile, doar o singură persoană poate fi desemnată pentru fiecare Rol de Cross Link, decât dacă nu e permis specific în Politica de Cross Link.
 
-Whenever a Cross Link Role is unfilled, it is considered non-existent and has no default assignment or effect.
+Oricând un Rol de Cross Link nu este ocupat, este considerat ca fiind ne-existent și nu are vreun mod implicit de desemnare sau consecință.
 
-#### 2.7.3 Cross Link Authority
+#### 2.7.3 AUTORITATEA LA CROSS LINK
 
-A Cross Link becomes a Core Circle Member of the Target Circle, and may use the authorities of a Core Circle Member to process Tensions that relate to the Target Circle limiting the Linked Entity.
+Un Cross Link devine un Membru de Bază a Cercului Țintă și poate folosi aceleași autorități ca ale unui Membru de Bază pentru a procesa Tensiuni care se referă la Cercul Țintă legate de Entitatea Link.
 
-However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
+Oricum, dincolo de îndepărtarea limitărilor potențiale, un Cross Link nu poate folosi Cercul Țintă pentru a crea mai multe capacități pentru Entitatea Link, decât dacă aceste capacități pot ajuta Cercul Țintă să își exprime propriul Scop și Responsabilități.
 
-#### 2.7.4 Additions to a Cross Link Role
+#### 2.7.4 COMPLETĂRI LA ROLUL DE CROSS LINK
 
-A Linked Entity may amend its Cross Link Role through its own Governance Process.
+O Entitate Link poate modifica un Rol de Cross Link prin Procesul de Guvernanță.
 
-A Target Circle may add Domains or Accountabilities to a Cross Link Role through its own Governance Process, and may later amend or remove any it added.
+Un Cerc Țintă poate adăuga Domenii și Responsabilități unui Rol De Cross Link prin Procesul de Guvernanță, iar ulterior poate modifica și exclude orice a adăugat.
 
-#### 2.7.5 Boundaries and Delegation
+#### 2.7.5 LIMITE ȘI DELAGARE
 
-The Linked Entity invited into a Target Circle may be a Role contained by another Circle. In that case, the other Circle may change the Linked Entity to another one of its Roles that it believes is more appropriate, or delegate the selection of the Linked Entity to one of its Sub-Circles.
+O Entitate Link invitată în Cercul Țintă poate avea un Rol ce aparține într-un alt Cerc. În acest caz, celălalt Cerc poate schimba Entitatea Link cu un alt Rol care consideră a fi mai potrivit, sau să delege selectarea Entității Link unuia din Sub-Cercurile sale.
 
-The Target Circle may also delegate the requirement to receive a link to one of its own Sub-Circles, in which case that Sub-Circle will then become the Target Circle for the link.
+Cercul Țintă mai poate delega cerința de a primi o legătură cu unul din propriile Sub-Cercuri, caz în care acel Sub-Cerc va deveni Cercul Țintă pentru această legătura.
 
-In either case, any delegation must be done via a Policy of the Circle doing the delegating. Further, any change or delegation must still align with any constraints or guidelines specified in the Cross Link Policy that extended the invitation to link in the first place.
+Indiferent de caz, orice delegare trebuie făcută printr-o Politică a Cercului care face delegarea. Mai mult, orice schimbare sau delegare trebuie să se alinieze cu alte constrângeri și ghidaje specificate în Politica de Cross Link care însoțea invitația de legătură inițială. 
 
-## Article III: Governance Process
+## ARTICOLUL III: PROCESUL DE GUVERNANȚĂ
 
-### 3.1 Scope of Governance
+### 3.1 SCOPUL GUVERNĂRII
 
-The Governance Process of a Circle has the power to:
+Procesul de Guvernanță al Cercului are puterea să:
 
-- **(a)** define, amend, or remove the Circle’s Roles and Sub-Circles; and
-- **(b)** define, amend, or remove the Circle’s Policies; and
-- **(c)** hold elections for the Circle’s Elected Roles.
+- **(a)** definească, modifice sau elimine Rolurile Cercului sau ale Sub-Cercurilor, și
+- **(b)** definească, modifice sau elimine Politicile Cercului, și 
+- **(c)** organizeze alegeri pentru Rolurile Votate ale Cercului.
 
-At any given time, the then-current results of a Circle’s Governance Process define its acting **_“Governance”_**.
+În orice moment, rezultatele cele mai recente ale Procesului de Guvernanță ale Cercului definesc **_”Guvernanța”_** sa.
 
-Only those outputs listed in this section are valid Governance for a circle; no one may capture other outputs within the Circle’s Governance records.
+Numai acele rezoluții enumerate în această secțiune sunt Guvernări valide pentru un Cerc. Nimeni nu poate include rezoluții ulterioare, în cadrul înregistrărilor din Guvernanța Cercului.
 
-### 3.2 Changing Governance
+### 3.2 SCHIMBAREA GUVERNĂRII
 
-Any Core Circle Member of a Circle may propose changing its Governance, thus making a **_“Proposal”_** as a **_“Proposer”_**.
+Orice Membru de Bază a unui Cerc poate propune schimbarea Guvernări acestuia, făcând o **_”Propunere”_** ca și **_”Propunător”_**.
 
-Before a Proposal is adopted, all Core Circle Members must have the opportunity to raise Tensions about adopting the Proposal. Each Tension so raised is considered an **_“Objection”_** if it meets the criteria defined in this section, and the person who raised it becomes the **_“Objector”_**.
+Înainte ca o Propunere să fie adoptată, toți Membrii de Bază ai Cercului trebuie să aibă oportunitatea de a exprima Tensiuni legate de adoptarea Propunerii. Fiecare Tensiune astfel exprimată este considerată o **_”Obiecție”_** dacă îndeplinește criteriile definite în această secțiune, iar persoana care a exprimat-o devine **_”Contestator”_**.
 
-Proposals are considered adopted and amend the Governance of the Circle only if no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle may adopt the Proposal, after which all Core Circle Members must have another opportunity to raise further Objections before the Proposal is adopted.
+Propunerile sunt considerate adoptate și modifică Guvernanța Cercului doar dacă nici o Obiecție nu este exprimată. Dacă sunt Obiecții exprimate, Propunătorul și cu fiecare Contestator trebuie să găsească o modalitate de a rezolva Obiecția înainte ca Cercul să adopte Propunerea, după care toți Membrii de Bază ai Cercului trebuie să aibă încă o oportunitate de a ridica alte Obiecții înainte ca Propunerea să fie adoptată. 
 
-#### 3.2.1 Making Proposals
+#### 3.2.1 REALIZAREA UNEI PROPUNERI
 
-Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle called under the terms of Section 3.3.
+Orice Membru de Bază al Cercului poate face o Propunere în cadrul **_”Întâlnirii de Guvernanță”_** a Cercului convocată sub termenii Secțiunii 3.3. Alternativ, un Membru de Bază al Cercului poate distribui asincron o Propunere către toți ceilalți membrii de Bază ai Cercului, în afara unei Întâlniri de Guvernanță, folosind orice canal de comunicare în scris care a fost aprobat în acest sens de către Secretarul Cercului.
 
-Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, the Facilitator or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
+Când acest lucru se întâmplă, Facilitatorul poate aplica același proces și reguli folosite într-o Întâlnire de Guvernanță sau poate permite fiecărui Membru de Bază al Cercului să declare direct dacă are sau nu vreo Obiecție pe care vrea să o integreze. Mai mult, în orice moment înainte de adoptarea unei Propuneri asincrone, Facilitatorul sau oricare Membru de Bază al Cercului poate opri procesul asincron solicitându-i Propunătorului să escaladeze Propunerea la o Întâlnire de Guvernanță și să notifice Secretarul Cercului.
 
-A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
+Un Cerc poate adopta Politici care să delimiteze clar când sau cum o Propunere poate fi făcută sau procesată în afara unei Întâlniri de Guvernanță. Oricum, nici o Politică nu poate limita dreptul de a stopa procesului asincron și a-l escalada la o Întâlnire de Guvernanță. Un Cerc poate utiliza o Politică care să creeze o limită de timp pentru primirea răspunsurile unei Propuneri asincrone, după care orice Propunere asincronă să fie automat adoptată dacă nici o Obiecție sau cere de escaladare nu a fost adusă.
 
-#### 3.2.2 Criteria for Valid Proposals
+#### 3.2.2 CRITERII PENTRU O PROPUNERE VALIDĂ
 
-Some Proposals are disallowed within a Circle’s Governance Process, and the Facilitator may discard these before they are fully processed.
+Unele Propuneri pot fi blocate în cadrul unui Proces de Guvernanță a Cercului, iar Facilitatorul le poate respinge înainte de a fi cu totul procesate.
 
-To be valid for processing, a Proposal must resolve or reduce a Tension sensed by the Proposer. In addition, a Proposal must normally help the Proposer better express the Purpose or an Accountability of one of the Proposer’s Roles in the Circle. However, a Proposal may alternatively help another Circle Member better express one of that person’s Roles in the Circle, but only if that person has granted the Proposer permission to represent that Role.
+Pentru a fi valide spre procesare, o Propunere trebuie să rezolve sau să reducă o Tensiune exprimată de către Propunător. 
+În plus, o Propunere trebuie în mod normal să ajute Propunătorul să își împlinească mai bine Scopul sau o Responsabilitate a unuia din Rolurile pe care acesta le are în cadrul Cercului. Oricum, o Propunere poate să ajute și un alt Membru al Cercului să împlinească mai bine unul din Rolurile acestuia în Cerc, dar doar dacă acea persoană a oferite Propunătorului permisiunea să îi reprezinte Rolul.
 
-Finally, a Proposal is always valid regardless of the preceding criteria if it is made solely to help evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any Elected Role.
+În final, o propunere este întotdeauna valabilă indiferent de criteriile de mai sus în cazul în care este făcută numai pentru a ajuta evoluția Guvernării Cercului de a exprima mai clar ceea ce deja se întâmplă sau de a declanșa alegeri pentru oricare Rol Ales.
 
-#### 3.2.3 Testing Proposals
+#### 3.2.3 TESTAREA PROPUNERILOR
 
-The Facilitator may test the validity of a Proposal by asking the Proposer questions. For a Proposal to survive the test, the Proposer must be able to describe the Tension, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension and helped the Circle in one of the ways allowed by the prior section. The Facilitator must discard the Proposal if the Facilitator deems the Proposer has failed to meet this threshold.
+Facilitatorul poate testa validitatea unei Propuneri punând întrebări Propunătorului. Pentru ca o Propunere să supraviețuiască testului, Propunătorul trebuie să fie în măsură să descrie Tensiunea, și să dea un exemplu real din trecutul sau prezentul apropiat în care Propunerea ar fi redus acea Tensiune și a ajutat Cercul într-una dintre modalitățile permise de secțiunea anterioară. Facilitatorul trebuie să renunțe la Propunerea în cazul în care consideră că Propunătorul nu a îndeplinit această cerință.
 
-However, when assessing the validity of a Proposal, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of their accuracy, nor on whether the Proposal would adequately address the Tension.
+Totuși, atunci când se evaluează validitatea unei Propuneri, Facilitatorul poate judeca numai dacă Propunătorul a prezentat exemplul cerut și explicații necesare, și dacă acestea au fost prezentate cu un raționament logic și sunt astfel rezonabile. Facilitatorul nu poate lua o hotărâre în ce privește acuratețea acestora, și nici dacă Propunerea ar rezolva în mod corespunzător Tensiunea.
 
-#### 3.2.4 Criteria for Valid Objections
+#### 3.2.4 CRITERII PENTRU OBIECȚII VALIDE
 
-Some Tensions do not count as Objections, and may be ignored during the processing of a Proposal. A Tension only counts as an Objection if it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
+Unele Tensiuni nu sunt considerate Obiecții, și pot fi ignorate în timpul prelucrării unei Propuneri. O Tensiune contează ca Obiecție doar în cazul în care îndeplinește **toate** criteriile definite la literele (a) până la (d) de mai jos sau criteriul special definit în (e):
 
-- **(a)** If the Tension were unaddressed, the capacity of the Circle to express its Purpose or enact its Accountabilities would degrade. Thus, the Tension is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually move the Circle backwards in its current capacity. For the purpose of this criteria, decreasing clarity counts as degrading capacity, although merely failing to improve clarity does not.
-- **(b)** The Tension does not already exist for the Circle even in the absence of the Proposal. Thus, the Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
-- **(c)** The Tension is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant impact could result.
-- **(d)** The Tension limits the Objector's capacity to express the Purpose or an Accountability of one of the Objector’s Roles in the Circle; or, if it limits another Role, the Objector has permission to represent that Role from a Circle Member who normally fills the Role.
+- **(a)** Dacă Tensiunea a fost nesoluționată, atunci capacitatea Cercului de a-și exprima Scopul sau a-și împlini Responsabilitățile sale s-ar degrada. Astfel, Tensiune nu este doar declanșată de o idee mai bună sau de un potențial suplimentar de îmbunătățire, ci pentru că Propunerea ar da de fapt Cercul înapoi din starea sa actuală. Sensul acestui criteriu ne indică că scăderea clarității înseamnă degradarea capacității, deși doar faptul că nu îmbunătățește claritatea nu îl și exclude.
+- **(b)** Tensiunea nu există deja pentru Cerc, chiar și în absența Propunerii. Astfel, Tensiunea se va crea tocmai prin adoptarea Propunerii, și nu ar exista dacă Propunerea ar fi retrasă.
+- **(c)** Tensiunea este declanșată doar prin fapte sau evenimente cunoscute în prezent, fără a ține cont de vreo predicție la ceea ce s-ar putea întâmpla în viitor. Cu toate acestea, susținerea unei previziuni este permisă atunci când nu se prezintă nici o ocazie de a experimenta și răspunde în mod adecvat în viitor, înainte ca un impact semnificativ să fie generat.
+- **(d)** Tensiunea limitează capacitatea Contestatarului de a-și exprima Scopul sau o Responsabilitate a unuia din Rolurile sale din Cerc; sau, în cazul în care limitează un alt Rol, Contestatarul are permisiunea de a reprezenta acest Rolul unui Membru de Bază a Cercului care în mod normal, împlinește acest rol.
 
-However, regardless of the above criteria, a Tension about adopting a Proposal always counts as an Objection if:
+Cu toate acestea, indiferent de criteriile de mai sus, o Tensiune cu privire la adoptarea unei Propuneri contează întotdeauna ca Obiecție în cazul în care:
 
-- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or prompts the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs per the terms of Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
+- **(e)** Prelucrarea sau adoptarea Propunerii încalcă regulile definite în această Constituție, sau solicită Cercul sau membrilor săi să acționeze în afara autorității acordate în temeiul prezentei Constituții. De exemplu, Acțiunile Următoare, Proiectele și deciziile operaționale specifice nu sunt în tipicul valid al rezoluțiilor de Guvernanță conform Secțiunii 3.1, astfel încât orice persoană implicată ar putea ridica o Obiecție când respectiva Propunere va crea rezoluții care ar încalcă regulile Constituției.
 
-#### 3.2.5 Testing Objections
+#### 3.2.5 TESTAREA OBIECȚIILOR
 
-The Facilitator may test the validity of a claimed Objection by asking the Objector questions. For a claimed Objection to survive the test, the Objector must be able to present a reasonable argument for why it meets each specific criteria required of an Objection. The Facilitator must discard an Objection if the Facilitator deems the Objector has failed to meet this threshold.
+Facilitatorul poate testa validitatea unui Obiecții prin adresarea de întrebări Contestatarului. Pentru ca o Obiecție să supraviețuiască testului, Contestatarul trebuie să fie în măsură să prezinte un argument rezonabil pentru motivul pentru care îndeplinește fiecare criteriu specific necesar unei Obiecții. Facilitatorul trebuie să elimine o Obiecție în cazul în care consideră că Contestatarul nu a îndeplinit acest prag.
 
-When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented the required arguments, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of an argument’s accuracy or the importance of addressing it.
+Atunci când se evaluează validitatea unei Obiecții, Facilitatorul poate judeca numai dacă Contestatarul a prezentat argumentele necesare, și dacă acestea au fost prezentate ca un raționament logic și sunt, prin urmare, rezonabile.
+Facilitatorul nu poate lua o hotărâre în ce privește acuratețea sau importanța acestor argumente.
 
-However, when an Objection is claimed on the basis of a Proposal violating the Constitution, per Section 3.2.4(e), the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
+Cu toate acestea, în cazul în care o Obiecție este adusă cu argumentul că Propunerea făcută va încălca Constituția, conform secțiunii 3.2.4 (e), Facilitatorul poate solicita Secretarului Cercului să interpreteze dacă Propunerea făcută într-adevăr încalcă Constituția. În cazul în care Secretarul decide că nu, Facilitatorul trebuie să elimine Obiecția. 
 
-#### 3.2.6 Rules of Integration
+#### 3.2.6 REGULI DE INTEGRARE
 
-When an Objection to a Proposal is raised, the following additional rules apply during the search for a resolution:
+Atunci când se ridică o Obiecție la o Propunere, următoarele reguli suplimentare se aplică în timpul căutării unei rezoluții:
 
-- **(a)** The Facilitator must test an Objection if requested by any Core Circle Member, and discard it if it fails to meet the validity criteria described in this Section.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. Others may help. If the Facilitator concludes that the Objector is not making a good faith effort to find a potential amendment at any point, then the Facilitator must deem the Objection abandoned and continue processing the Proposal as if the Objection had not been raised.
-- **(c)** Any Core Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator concludes that the Proposer is not making a good faith effort to answer those questions at any point, then the Facilitator must deem the Proposal invalid for processing and abandoned.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve or prevent the Tension in each specific situation the Proposer used to illustrate the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve or prevent the Tension in at least one specific situation already presented. Alternatively, the Proposer may add an additional example that the amended Proposal would not resolve, but which still meets the criteria for processing a Proposal required by Section 3.2.2. If the Facilitator concludes that the Proposer has failed to meet one of these thresholds, then the Facilitator must deem the Proposal invalid for processing and abandoned.
+- **(a)** Facilitatorul trebuie să testeze o Obiecție dacă este solicitată de către orice Membru de Bază al Cercului, și să o elimine în cazul în care acesta nu îndeplinește criteriile de validitate descrise în aceasta secțiune.
+- **(b)** Contestatorul trebuie să încerce să aducă modificări la Propunere care să îi rezolve Obiecția adusă, dar care în continuare să răspundă la Tensiunea Propunătorului. Alții pot ajuta. În cazul în care Facilitatorul ajunge la concluzia că Contestatarul nu face deloc vreun efort de bună credință pentru a găsi o modificare, atunci trebuie să considere Obiecțiunea abandonată și se continue prelucrarea Propunerii ca și când Obiecțiunea nici nu a fost ridicată.
+- **(c)** Orice Membru de Bază a Cercului poate adresa întrebări clarificatoare Propunătorului privind Tensiunea din spatele Propunerii, sau despre orice exemple pe care Propunătorul le-a oferit pentru a ilustra Tensiunea. În cazul în care Facilitatorul ajunge la concluzia că Propunătorul nu face deloc un efort de bună credință pentru a răspunde acestor întrebări, atunci trebuie să considere Propunerea nevalidă pentru prelucrare și să o abandoneze.
+- **(d)** Contestatorul poate sugera o Propunere modificată, și să ofere argumente rezonabile pentru cum aceasta ar trebui să rezolve sau să prevină Tensiunea în fiecare situație specificată de Propunător pentru a ilustra Tensiunea. Apoi, după sugestia Contestatorului, Propunătorul trebuie să prezinte un argument rezonabil de ce Propunerea modificată nu ar reuși să rezolve sau să prevină Tensiunea în cel puțin o situație specificată deja. În plus, Propunătorul poate descrie un exemplu suplimentar în care Propunerea modificată nu s-ar aplica, dar care totuși îndeplinește în continuare criteriile de prelucrare a unei Propuneri precum e cerut în secțiunea 3.2.2. În cazul în care Facilitatorul ajunge la concluzia că Propunătorul nu a îndeplinit una dintre aceste cerințe, Facilitatorul trebuie să considere propunerea nevalidă pentru procesare și să o abandoneze.
 
-### 3.3 Governance Meetings
+### 3.3 ÎNT LNIRI DE GUVERNANȚĂ
 
-The Secretary of a Circle is responsible for scheduling Governance Meetings to enact the Circle’s Governance Process.
+Secretarul unui Cerc este responsabil pentru programarea Întâlnirilor de Guvernanță menite să adopte Procesul de Guvernanță a Cercului.
 
-In addition to any regular, recurring Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member. 
+Pe lângă Întâlnirile de Guvernanță regulate și recurente programate, Secretarul mai este responsabil pentru programarea oricărei Întâlniri de Guvernanță speciale solicitate de oricare Membru de Bază a Cercului.
 
-The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules and any relevant Policies of the Circle.
+Facilitatorul este responsabil de prezidarea tuturor Întâlnirilor de Guvernanță în aliniere cu următoarele norme și orice alte Politici relevante ale Cercului.
 
-#### 3.3.1 Attendance
+#### 3.3.1 PREZENȚĂ
 
-All Core Circle Members are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate, and become Core Circle Members for the duration of a Governance Meeting even if they are not normally Core Circle Members.
+Toți Membrii de Bază a Cercului au dreptul de a participa pe deplin la toate Întâlnirile de Guvernanță ale unui Cerc. Facilitatorul și Secretarul sunt, de asemenea, îndreptățiți să participe pe deplin, și devin Membrii de Bază a Cercului pe durata unei Întâlniri de Guvernanță, chiar dacă aceștia nu sunt în mod normal Membrii de Bază a Cercului.
 
-In addition, the Lead Link and any Rep Links or Cross Links to the Circle may each invite up to one additional person, solely to aid the link in processing a specific Tension. The invited participant then becomes a Core Circle Member as well for the duration of that Governance Meeting.
+In plus, Lead Link-ul și orice Rep Link sau Cross Link la Cerc pot fiecare să invite până la o persoană în plus, numai pentru a ajuta Link-ul în procesarea unei Tensiuni specifice. Participantul care a fost invitat devine și el un Membru de Bază al Cercului pe durata acestei Întâlniri de Guvernanță.
 
-Beyond those listed in this paragraph, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
+În afară de persoanele enumerate în prezentul alineat, nimeni altcineva nu are permisiunea să participe în Întâlnirile de Guvernanță ale unui Cerc, cu excepția cazului în care e invitat în mod explicit printr-o Politică a Cercului.
 
-#### 3.3.2 Notice & Quorum
+#### 3.3.2 NOTIFICĂRI & QVORUM
 
-A Circle may only conduct its Governance Process in a meeting if the Secretary has given all Core Circle Members reasonable advance notice that a Governance Meeting will be held, including its time and location.
+Un Cerc poate realiza Procesul său de Guvernanță în cadrul unei întâlniri doar în cazul în care Secretarul a informat pe toți Membrii de Bază ai Cercului cu suficient timp înainte că o astfel de întâlnire va avea loc, inclusiv ora, data și locația.
 
-Beyond this notice requirement, there is no quorum required for a Circle to conduct a Governance Meeting, unless one is specified by a Policy of the Circle.
+Dincolo de această cerință de notificare, nu există nici un cvorum necesar pentru ca un Cerc să efectueze o Întâlnire de Guvernanță, cu excepția cazului în care este specificat de o Politică a Cercului.
 
-Anyone who fails to attend a Governance Meeting counts as having had the opportunity to consider all Proposals made within the meeting, and raised no Objections to their adoption.
+Orice persoană care nu reușește să participe la o Întâlnire de Guvernanță se consideră că a avut posibilitatea de a lua în considerare toate Propunerile făcute în cadrul reuniunii, și nu a ridicat obiecții la adoptarea acestora.
 
-#### 3.3.3 Meeting Process
+#### 3.3.3 DESFĂȘURAREA ÎNT LNIRII
 
-The Facilitator must use the following process for Governance Meetings:
+Facilitatorul trebuie să utilizeze următorul proces al unei Întâlniri de Guvernanță:
 
-- **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
-- **(b) Administrative Concerns:** The Facilitator allows space to discuss and resolve any administrative or logistical matters the Facilitator deems worthy of attention.
-- **(c) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(d) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+- **(a) Rundă de Check-in:** Facilitatorul permite fiecărui participant prezent de a împărtăși starea lor actuală sau gândurile avute, sau care să ofere un alt fel de comentariu pentru a deschide întâlnirea. Comentariile nu sunt permise.
+- **(b) Preocupări administrative:** Facilitatorul oferă spațiu de discuție si rezolvare a oricărei probleme administrative sau logistice pe care Facilitatorul le consideră demne de atenție.
+- **(c) Construirea ordinii de zi și Prelucrare:** Facilitatorul realizează o agendă de Tensiuni pentru a fi procesate, apoi le oferă pe rând spre prelucrare.
+- **(d) Rundă de închidere:** Facilitatorul permite fiecărui participant să împărtășească o reflecție de închidere sau un gând declanșat de întâlnire. Comentariile nu sunt permise.
 
-A Policy of the Circle may add to this process, but may not conflict with any of the steps or other rules defined in this Article of the Constitution.
+O Politică a Cercului poate adăuga pași la acest proces, atâta timp cât nu intră în conflict cu oricare etapă sau alte reguli definite în prezentul articol din Constituție.
 
-#### 3.3.4 Agenda Building
+#### 3.3.4 REALIZAREA ORDINII DE ZI
 
-The Facilitator must build an agenda of Tensions to process within a Governance Meeting by soliciting and capturing agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired. Participants may add additional agenda items during the meeting as well, in between the processing of any existing agenda items.
+Facilitatorul trebuie să construiască o ordine de zi cu Tensiuni pentru a fi procesate într-o Întâlnire de Guvernanță prin solicitarea și capturarea sugestiilor venite de la toți participanții. Acest lucru trebuie să fie făcut în cadrul Întâlnirii și nu în prealabil, și fiecare participant poate adăuga cât mai multe elemente pe ordinea de zi după cum dorește. Participanții pot adăuga elemente suplimentare pe ordinea de zi în cadrul Întâlnirii, între procesarea oricăror elemente de pe ordinea de zi existentă.
 
-- **(a) Agenda Item Format:** Each agenda item in a Governance Meeting represents one Tension to process, sensed by the participant who added it to the agenda. When adding an agenda item, a participant may only provide a short label for the Tension, and may not explain or discuss the Tension further until processing of that agenda item actually begins.
-- **(b) Ordering the Agenda:** The Facilitator may determine the order in which to process agenda items, using any process or criteria the Facilitator deems appropriate. However, the Facilitator must place any agenda item calling for an election of any of the Circle’s Elected Roles before all other agenda items, if requested by any meeting participant. Further, if the meeting was scheduled at the special request of one participant, the Facilitator must place all agenda items raised by that participant before any raised by others, unless that participant allows otherwise.
-- **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined in Section 3.3.6. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined in Section 3.3.5.
+- **(a) Formatul unui element de pe ordinea de zi:** Fiecare element de pe ordinea de zi într-o Întâlnire de Guvernanță reprezintă o Tensiunea pentru procesare, detectată de către participantul care a adăugat-o la ordinea de zi. Atunci când adăugă un element pe ordinea de zi, un participant poate furniza doar o scurtă etichetă pentru Tensiune, și nu poate explica sau discuta despre aceasta până la procesarea efectivă a acelui element pe ordinea de zi.
+- **(b) Organizarea ordinii de zi:** Facilitatorul poate determina ordinea în care se vor procesa elementele de pe ordinea de zi, folosind orice proces sau criteriu pe care acesta le consideră adecvate. Cu toate acestea, Facilitatorul trebuie să plaseze înainte de toate celelalte puncte de pe ordinea de zi orice punct care solicită Alegerea unui Rol Ales din Cerc, dacă acest lucru este solicitat de către orice participant la ședință. Mai mult, dacă Întâlnirea a fost programată la cererea specială a unui participant, Facilitatorul trebuie să plaseze toate elementele de pe ordinea de zi ridicate de acel participant, înainte de orice alte puncte ridicate de către alții, cu excepția cazului în care participantul permite altfel.
+- **(c) Procesarea punctelor de pe ordinea de zi:** Odată ce Facilitatorul determină ordinea inițială pentru ordinea de zi, Facilitatorul trebuie să conducă participanții la procesarea fiecărui element de pe ordinea de zi, unul câte unul. Pentru a procesa un element care solicită Alegeri, Facilitatorul trebuie să folosească **_"Procesul Electoral Integrat”_** care este definit în secțiunea 3.3.6. Pentru a procesa orice alt punct din agendă, Facilitatorul trebuie să folosească **_"Procesul Decizional Integrat"_** definit în secțiunea 3.3.5.
 
-#### 3.3.5 Integrative Decision-Making Process
+#### 3.3.5 PROCESUL DECIZIONAL INTEGRAT
 
-The Facilitator must enact the Integrative Decision-Making Process as follows:
+Facilitatorul trebuie să pună în aplicare Procesul Decizional Integrat precum urmează:
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address the Tension. If the Proposer requests help crafting a Proposal, the Facilitator may allow discussion or another collaborative process to assist. However, the Facilitator must focus this activity solely on crafting an initial Proposal for the Proposer’s Tension, and not on addressing other Tensions or integrating others’ concerns into the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, the other participants may ask clarifying questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must disallow any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Any participant may also ask the Secretary to read the captured Proposal or clarify any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Once there are no further clarifying questions, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop and disallow any out-of-turn comments, any attempts to engage others in a dialog or exchange of any sort, and any reactions to other reactions instead of to the Proposal.
-- **(d) Amend & Clarify:** After the reaction round, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. During this step, the Facilitator must immediately stop and disallow any comments by anyone other than the Proposer or Secretary, and any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any sort. The Facilitator may test Objections as described in Section 3.2.5, and must capture any valid Objections that remain after testing. If there are no valid Objections, the Secretary records the Proposal as adopted Governance for the Circle.
-- **(f) Integration:** If there are valid Objections, the Facilitator then facilitates a discussion to amend the Proposal to resolve each Objection, one at a time. The Facilitator marks an Objection as resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that the amended Proposal would still address the Proposer’s Tension. During the discussion, the Facilitator must apply the rules of integration described in Section 3.2.6. Once all captured Objections are addressed, the Facilitator moves back to the Objection round to check for new Objections to the amended Proposal.
+- **(a) Prezentarea Propunerii:** În primul rând, Propunătorul poate descrie Tensiunea și să prezinte o Propunere de reducere a Tensiunii. În cazul în care Propunătorul cere ajutor în elaborarea unei Propuneri, Facilitatorul poate permite discuții sau o altă formă de proces de colaborare pentru a-l ajuta. Cu toate acestea, Facilitatorul trebuie să concentreze acest lucru exclusiv pe conceperea unei Propuneri legată de Tensiunea inițială, și nu pe abordarea altor tensiuni sau integrarea preocupărilor avute de ceilalți.
+- **(b) Întrebări de clarificare:** O dată ce Propunătorul face o Propunere, ceilalți participanți pot solicita întrebări de clarificare pentru a înțelege mai bine Propunerea sau Tensiunea din spatele ei. Propunătorul poate răspunde la fiecare întrebare, sau poate refuza să facă acest lucru. Facilitatorul trebuie să blocheze orice reacții sau opinii exprimate cu privire la Propunere, și a preveni discuțiile de orice fel. Orice participant poate cere Secretarului să citească Propunerea capturată la acel moment sau să clarifice procesul Guvernări existente, în timpul acestei etape sau în orice alt moment în care participantului îi este permis să vorbească, iar Secretarul trebuie să facă acest lucru.
+- **(C) Runda de reacție:** O dată ce nu mai sunt întrebări de clarificare, fiecare participant cu excepția Propunătorului poate împărtăși reacții la Propunere, o singură persoană pe rând. Facilitatorul trebuie să se oprească imediat și să interzică orice comentarii ieșite din context, orice încercare de a angaja pe alții într-un dialog sau schimb de orice fel, precum și orice reacții la alte reacții în loc de Propunerea discutată.
+- **(d) Modificări și clarificări:** După runda de reacție, Propunătorul poate să ofere comentarii ca răspuns la reacțiile auzite și să aducă modificări la Propunere. Cu toate acestea, intenția primară a oricăror modificări trebuie să fie o mai bună abordare  a Tensiunii inițiatorului, și nu a Tensiunilor ridicate de alții. În timpul acestei etape, Facilitatorul trebuie să oprească imediat și să interzică orice comentarii cu excepția celor făcute de Propunător sau de Secretar, dar și intervențiile Secretarului trebuie să se concentreze exclusiv pe capturarea corectă a modificărilor făcute la Propunere.
+- **(e) Runda de obiecții:** În continuare, fiecare participant, doar unul odată, poate să ridice potențiale Obiecții cu privire la adoptarea Propunerii. Facilitatorul trebuie să oprească și să interzică orice discuții sau răspunsuri de orice fel. Facilitatorul poate testa Obiecțiile așa cum s-a descris în secțiunea 3.2.5, și să mențină orice Obiecție validă care rămâne după testare. În cazul în care nu există Obiecții valide, Secretarul înregistrează propunerea ca și Guvernanță adoptată pentru Cerc.
+- **(f) Integrarea:** În cazul în care există obiecții valabile, Facilitatorul deschide o discuție a cărui scop este să modifice Propunerea spre a rezolva fiecare Obiecție, una câte una. Facilitatorul marchează o Obiecție ca fiind rezolvată o dată ce Contestatorul confirmă faptul că Propunerea modificată nu va declanșa Obiecția ridicată, iar Propunătorul confirmă că Propunerea modificată încă adresează Tensiunea inițială. În timpul discuției, Facilitatorul trebuie să aplice regulile de integrare descrise în Secțiunea 3.2.6. Odată ce toate Obiecțiile aduse sunt abordate, Facilitatorul se mută înapoi la runda de obiecții pentru a verifica dacă au apărut noi obiecții la Propunerea modificată.
 
-#### 3.3.6 Integrative Election Process
+#### 3.3.6 PROCESUL ELECTORAL INTEGRATIV
 
-The Facilitator must enact the Integrative Election Process as follows:
+Facilitatorul trebuie să adopte procesul electoral integrativ, după cum urmează:
 
-- **(a) Describe Role:** First, the Facilitator must identify the target Role and term for the election. The Facilitator may also describe the functions of the target Role, and present other relevant information about the Role.
-- **(b) Fill Out Ballots:** Each participant must then fill out a ballot to nominate whomever the participant believes is the best fit for the Role among all eligible candidates. Each participant must label the ballot with his or her own name as well, and no one may abstain or nominate multiple people. Before and during this step, the Facilitator must promptly stop all comments or discussion about potential candidates or nominations.
-- **(c) Nomination Round:** Once all ballots are submitted, the Facilitator must share the contents of each ballot, one at a time, with all participants. When the Facilitator shares a nomination, the nominator must state why he or she believes that candidate would be a good fit for the Role. The Facilitator must stop any responses or other comments, as well as any comments by a nominator about other potential candidates besides the nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, the Facilitator must give each participant the opportunity to change his or her nomination. A participant making a change may explain his or her reason for selecting a new candidate, but the Facilitator must stop any other comments or discussion.
-- **(e) Make a Proposal:** Next, the Facilitator must count the nominations and make a Proposal to elect the candidate with the most nominations for the specified term. If there is a tie for the most nominations, then the Facilitator may do any one of the following: (i) blindly select one of the tied candidates randomly, and propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) if only one of the tied candidates has nominated himself or herself, propose that person; or (iv) go back to the previous step and require each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates, then continue back to this step and re-apply its rules.
-- **(f) Process Proposal:** Once the Facilitator makes a Proposal to elect a candidate, the Facilitator must move to the Integrative Decision-Making Process to resolve that Proposal. However, the Facilitator must start directly with the Objection round, and, if the proposed candidate is present, the Facilitator must ask the candidate for Objections last. If any Objections are raised, the Facilitator may choose to process them normally, or to discard the Proposal either immediately after the Objection round or at any point during the integration step. If the Facilitator opts to discard the Proposal, the Facilitator must go back to the prior step in this process, discard all nominations for the prior candidate, and follow the rules of the prior step to select another candidate to propose instead.
+- **(a) Descrierea Rolului:** În primul rând, Facilitatorul trebuie să identifice Rolul Țintă și termenul pentru alegeri. Facilitatorul poate descrie de asemenea, funcțiile Rolului Țintă  și să prezinte alte informații relevante despre Rol.
+- **(b) Completarea buletinelor de vot:** Fiecare participant trebuie apoi să completeze un buletin de vot pentru a desemna pe cine crede că este cea mai potrivită persoană pentru Rolul în cauză dintre toți candidații eligibili. Fiecare participant trebuie să marcheze în buletinul de vot numele propriu și nimeni nu poate să se abțină sau să desemnează mai mulți candidați. Înainte și în timpul acestei etape, Facilitatorul trebuie să oprească imediat toate comentariile sau discuțiile despre potențialii candidați sau alte nominalizări.
+- **(c) Rundă nominalizări:** Odată ce sunt depuse toate buletinele de vot, Facilitatorului trebuie să citească conținutul fiecărui buletin de vot, unul câte unul, cu toți participanții. Când Facilitatorul anunță o nominalizare, cel care a făcut nominalizarea trebuie să precizeze de ce el sau ea crede că acest candidat ar fi o alegere bună pentru acest Rol. Facilitatorul trebuie să oprească orice răspuns sau alte comentarii ale celorlalți participanți, precum și orice alte comentarii ale Propunătorului despre ceilalți candidați potențiali pe lângă candidatul în cauză.
+- **(d) Etapa schimbării nominalizării:** Odată ce toate nominalizările sunt publice, Facilitatorul trebuie să dea fiecărui participant posibilitatea de a schimba numirea sa. Un participant care face o schimbare poate explica rațiunea lui sau a ei pentru selectarea unui nou candidat, dar Facilitatorul trebuie să oprească orice alte comentarii sau discuții.
+- **(e) Efectuarea propunerii:** În continuare, Facilitatorul trebuie să numere nominalizările și să facă o propunere de a alege candidatul cu cele mai multe nominalizări pentru termenul specificat. Dacă există o egalitate între persoanele cu cele mai multe nominalizări, atunci Facilitatorul are dreptul să facă oricare dintre următoarele acțiuni: (i) să ia orbește biletul cu numele unuia din candidații aflați la egalitate în vârf și să propună acea persoană; sau (ii) în cazul în care persoana în prezent împlinește deja Rolul respectiv și este la egalitate în vârf, atunci o propune ca atare; sau (iii) în cazul în care doar unul dintre candidați s-a desemnat el însuși sau ea însăși pentru respectivul Rol, atunci o propune respectiva persoană; sau (iv) refă pasul anterior și solicită fiecărui participant care a desemnat o persoană, alta decât un candidat aflat la egalitate în vârf, să își schimbe dacă vrea nominalizarea către unul dintre candidați aflați la egalitate, apoi se continuă înapoi la acest pas și se re-aplica regulile.
+- **(f) Procesul de propunere:** Odată ce Facilitatorul face o Propunere de alegere a unui candidat, Facilitatorul trebuie să utilizeze Procesul de Decizie Integrată pentru a rezolva această Propunere. Cu toate acestea, Facilitatorul trebuie să înceapă direct cu runda de Obiecție, iar, în cazul în care candidatul propus este prezent, Facilitatorul trebuie să solicite Obiecțiile sale doar la finalul rundei. Dacă se ridică Obiecții, Facilitatorul poate alege să le prelucreze în mod normal, sau să debaraseze Propunerea, fie imediat după runda de Obiecții sau în orice moment din cursul etapei de integrare. În cazul în care Facilitatorului optează pentru a debarasa Propunerea, Facilitatorul trebuie să se întoarcă la etapa anterioară din proces, să renunțe la toate nominalizările anterioare pentru acel candidat, și să urmeze regulile etapei anterioare de a selecta un alt candidat în schimb.
 
-#### 3.3.7 Operational Decisions in Governance Meetings
+#### 3.3.7 DECIZII OPERAȚIONALE ÎN CADRUL ÎNT LNIRLOR DE GUVERNANȚĂ
 
-Governance Meetings are primarily intended to support a Circle’s Governance Process. As long as it does not distract from this intended focus, any participant may nonetheless accept Projects or Next-Actions during a Governance Meeting, or make other operational decisions that are outside the scope of the Circle’s Governance Process. However, the Secretary may not capture any operational outputs or decisions in the formal Governance minutes or records of the Circle. Further, operational outputs and decisions made in a Governance Meeting carry no more or less weight or authority than those made outside of a Governance Meeting.
+Întâlnirile de Guvernanță sunt destinate în primul rând pentru a sprijini Procesul de Guvernanță a unui Cerc. Atâta vreme cât nu există o distragere a atenției de la acest scop, orice participant poate accepta, totuși, proiecte sau acțiuni în timpul unei Întâlniri de Guvernanță sau a face decizii operaționale care sunt în afara domeniului de aplicare a Procesului de Guvernanță a Cercului. Însă, Secretarul nu poate capta orice rezoluții operaționale sau decizii în cadrul minutei formale de Guvernanță sau alte înregistrări ale Cercului. În plus, rezoluțiile operaționale și deciziile adoptate într-o Întâlnire de Guvernanță au la fel de multă autoritate cu cele efectuate în afara Întâlnirilor de Guvernanță.
 
-### 3.4 Interpreting the Constitution & Governance
+### 3.4 INTERPRETAREA CONSTITUȚIEI ȘI A GUVERNANȚEI
 
-As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Secretary of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
+Ca Partener al Organizației, puteți utiliza propria judecată în a interpreta această Constituție, precum și orice Guvernanța din cadrul Organizației, inclusiv modul în care acestea se aplică într-o situație specifică, și apoi să acționați în baza interpretării făcute. De asemenea, vă mai puteți baza pe interpretări explicite date de Secretarul oricărui Cerc, care este afectat de Guvernanță. Cu toate acestea, în oricare dintre aceste cazuri, următorii termeni suplimentari se aplică:
 
-#### 3.4.1 Secretary Interpretation Trumps
+#### 3.4.1 INTERPRETAREA SECRETARULUI E PRIORITARĂ
 
-If your interpretation conflicts with an interpretation ruling made by a Secretary, the Secretary’s interpretation trumps your own and applies instead, and you are responsible for aligning with it until any underlying Governance changes.
+În cazul în care interpretarea ta intră în conflict cu interpretarea dată de către un Secretar, interpretarea Secretarului e prioritară și se aplică mereu, și sunteți responsabil pentru conformarea la aceasta până când alte schimbări apar în procesul de Guvernanță.
 
-#### 3.4.2 Super-Circle Interpretation Trumps
+#### 3.4.2 INTERPRETAREA SUPER-CERCULUI E PRIORITARĂ
 
-A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Secretary.
+Secretarul unui Cerc poate respinge o interpretare dată de un Secretar din orice Sub-Cerc. Dacă doi Secretari dau hotărâri contradictorii și unul este Secretarul unui Cerc care conține celălalt Cerc, atunci ești responsabil pentru alinierea cu interpretarea dată de Secretarul Cercului mai larg.
 
-#### 3.4.3 Interpretations Become Standards
+#### 3.4.3 INTERPRETĂRILE DEVIN STANDARDE
 
-After ruling on an interpretation, a Secretary may choose to publish that interpretation and the logic behind it in the Governance records of the Circle. If published, the Secretary of that Circle and the Secretaries of any contained Circles are responsible for attempting to align any future rulings with the previously published logic and interpretations.
+După ce agreează asupra unei interpretări, un Secretar poate alege să publice această interpretarea și logica din spatele ei în registrele de Guvernanță ale Cercului. În cazul în care s-a publicat, Secretarul Cercului și Secretarii din oricare alte Cercuri conținute sunt responsabili pentru încercarea de a alinia orice viitoare hotărâri în spiritul logicii și interpretării publicate anterior.
 
-A Secretary may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. Once contradicted however, the new logic and interpretations become the acting standard that all future rulings must align with.
+Un Secretar poate contrazice logica sau interpretarea publicată anterior, doar dacă un nou argument convingător sau o altă circumstanță susține o inversare. O dată ce există o contrazicere cu aceasta, noua logică și interpretare va deveni noul standard după care toate hotărârile viitoare trebuie să se alinieze.
 
-#### 3.4.4 Striking Invalid Governance
+#### 3.4.4 BOICOTAREA GUVERNANȚEI NEVALIDE
 
-Any Circle Member of a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Core Circle Members of the Circle that held the offending Governance.
+Orice Membru de Bază al oricărui Cerc poate cere Secretarului din Cercul din care face parte să se pronunțe asupra validității oricărei Guvernanțe a Cercului sau a oricărui Rol sau Sub-cerc conținut de Cerc. La o astfel de solicitare, în cazul în care Secretarul concluzionează că Guvernanța intră în conflict cu regulile acestei Constituții, Secretarul trebuie să elimine Guvernanța ofensatoare din registre. După ce face acest lucru, Secretarul trebuie să comunice cu promptitudine ce și de ce a avut loc această eliminare către toți Membri de Bază ai Cercului care erau afectați de respectiva Guvernanță.
 
-### 3.5 Process Breakdown
+### 3.5 PROCES AVARIAT
 
-A **_“Process Breakdown”_** occurs when a Circle shows a pattern of behavior that conflicts with the rules of this Constitution.
+Un **_"Proces Avariat"_** are loc atunci când un Cerc prezintă un model de comportament care intră în conflict cu regulile acestei Constituții.
 
-#### 3.5.1 Breakdown from Failed Governance
+#### 3.5.1 AVARIE DE LA O GUVERNANȚA EȘUATĂ
 
-The Facilitator of a Circle may declare a Process Breakdown in the Circle if the Core Circle Members fail to successfully process a Proposal in a Governance Meeting, even after a reasonably long time is spent trying to do so. If the Proposer specially requested that Governance Meeting specifically for processing that Proposal, then the Proposer may also declare a Process Breakdown in this case.
+Facilitatorul unui cerc poate declara un Proces Avariat în Cerc dacă Membrii de Bază ai Cercului nu reușesc să proceseze cu succes o Propunere într-o Întâlnire de Guvernanță, chiar și după ce o perioadă de timp suficient de lung a fost alocată acestui lucru. În cazul în care Propunătorul a solicitat în mod special această Întâlnire de Guvernanță pentru procesarea respectivei Propuneri, atunci și acesta poate să declare un Proces Avariat în acest caz.
 
-#### 3.5.2 Breakdown from Unconstitutional Behavior
+#### 3.5.2 AVARIE DE LA COMPORTAMENTELE NECONSTITUȚIONALE
 
-The Facilitator of a Circle may declare a Process Breakdown within one of its Sub-Circles upon discovering a pattern of behavior or outputs within the Sub-Circle that conflict with the rules of this Constitution. However, if that Facilitator is also the Sub-Circle’s Lead Link or Facilitator, then the Super-Circle’s Secretary or Rep Link may also make this declaration.
+Facilitatorul unui Cerc poate declara un Proces Avariat într-unul dintre Sub-Cercuri dacă descoperă un model de comportament sau rezoluții în interiorul acelui Sub-Cerc care intră în conflict cu regulile prezentei Constituții. Totuși, în cazul în care Facilitatorului este și Lead Link-ul Sub-Cercului sau Facilitatorul, atunci Secretarul de Super-cerc sau Rep Link poate face, de asemenea, această declarație.
 
-#### 3.5.3 Process Restoration
+#### 3.5.3 RESTAURAREA PROCESULUI
 
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
+Ori de câte ori o parte autorizată declară un Proces Avariat într-un Cerc, se întâmplă următoarele:
 
-- **(a)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
-- **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Tensions or Objections within the Circle’s Governance Process.
+- **(a)** Facilitatorul Super-Cercului își asumă un proiect pentru a restabili procesul scadent în cadrul cercului; și
+- **(b)** Facilitatorul Super-Cercului va avea autoritatea de a prelua Rolul de Facilitator sau Secretar al Cercului, sau de a numi pe altcineva să facă acest lucru; și
+- **(c)** Facilitatorul Cercului va avea autoritatea de a judeca exactitatea oricărui argument prezentat pentru a valida o Tensiuni sau Obiecții în conformitate cu Procesul de Guvernanță al cercului.
 
-These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle.
+Aceste autorități sunt temporare și încetează de îndată ce Facilitatorului Super-Cercului ajunge la concluzia că proces scadent a fost restabilit în interiorul Cercului.
 
-#### 3.5.4 Escalation of Process Breakdown
+#### 3.5.4 ESCALADAREA UNUI PROCES AVARIAT
 
-A Process Breakdown of one Circle may not be considered a Process Breakdown of its Super-Circle, as long as the Super-Circle’s Facilitator is working to resolve the Process Breakdown promptly and diligently.
+Un Proces Avariat al unui Cerc nu poate fi considerat ca Proces Avariat de către Super-Cercul său, atâta timp cât Facilitatorul Super-Cercului lucrează spre a rezolva Procesul Avariat cu promptitudine și cu diligență.
 
-However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
+Cu toate acestea, în cazul în care Procesul Avariat nu este rezolvat într-un termen rezonabil, atunci Facilitatorului oricărui Super-Cerc, care conține Cercul în cauză poate declara un Proces Avariat în cadrul Super-Cercului.
 
-## Article IV: Operational Process
+## ARTICOLUL IV: PROCESUL OPERAȚIONAL
 
-### 4.1 Duties of Circle Members
+### 4.1 ATRIBUȚIILE MEMBRILOR CERCULUI
 
-When filling a Role in a Circle, you have the following duties to your fellow Circle Members when they’re acting on behalf of other Roles in the Circle.
+La împlinirea unui Rol într-un cerc, aveți următoarele obligații față de ceilalți colegii Membrii ai Cercului atunci când aceștia acționează în numele altor Roluri din Cerc.
 
-#### 4.1.1 Duty of Transparency
+#### 4.1.1 OBLIGAȚIA DE TRANSPARENȚĂ
 
-You have a duty to provide transparency when requested by your fellow Circle Members, in any of the following areas:
+Ai obligația de a oferi transparență atunci când este solicitată de către colegii Membrii de Cerc, în oricare dintre următoarele domenii:
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles in the Circle.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles in the Circle, vs. any other potential activities competing for your attention or resources.
-- **(c) Projections:** You must provide a projection of the date you expect to complete any Project or Next-Action tracked for any of your Roles in the Circle. A rough estimate is sufficient, considering your current context and priorities, but without detailed analysis or planning. This projection is not a binding commitment in any way, and unless Governance says otherwise, you have no duty to track the projection, manage your work to achieve it, or follow-up with the recipient if something changes.
-- **(d) Checklist Items & Metrics:** You must share whether you have completed any regular, recurring actions that you routinely perform in service your Roles in the Circle. You must also track and report on any metrics assigned to your Roles by the Circle’s Lead Link, or by any other Role or process granted the authority to define the Circle’s metrics.
+- **(a) Proiecte & Acțiuni Următoare:** Trebuie să împărtășești orice Proiecte și Acțiuni Următoare pe care le urmăriți pentru Rolurile dvs. din Cerc.
+- **(b) Prioritate relativă:** Trebuie să împărtășești modul în care îți stabilești prioritățile în oricare Proiect sau Acțiune Următoare  pentru Rolurile dvs. din Cerc, precum și față de orice alte activități potențiale care concurează pentru atenția sau resursele tale.
+- **(c) Previziunile:** Trebuie să furnizezi o estimare a datei pe care o anticipi în a completa orice Proiect sau Acțiune-Următoare pentru oricare dintre Rolurile tale din Cerc. O estimare aproximativă este suficientă, având în vedere contextul actual și prioritățile avute, fără o analiză sau planificare detaliată. Această proiecție nu este un angajament obligatoriu în nici un fel, cu excepția cazului în care Guvernanța spune altfel; deci nu aveți nici o obligație pentru a îndeplini proiecția făcută, a gestiona munca pentru a realiza acest lucru sau a informa solicitantul dacă se schimbă ceva.
+- **(d)** Lista de verificare și Măsurători: Trebuie să anunțați atunci când ați terminat orice acțiune regulată și recurentă pe care o efectuați în mod curent în serviciul Rolurilor voastre din Cerc. De asemenea, trebuie să înregistrați și să raportați cu privire la orice Măsurătoare atribuită la Rolurile voastre de către Lead Link-ul Cercului, sau de către alt rol sau proces care are acordată autoritatea de a defini Măsurătorile Cercului.
 
-#### 4.1.2 Duty of Processing
+#### 4.1.2 OBLIGAȚIA DE PROCESARE
 
-You have a duty to promptly process messages and requests from your fellow Circle Members, as follows:
+Ai datoria de a procesa cu promptitudine mesaje și solicitări din partea colegilor din Cerc, după cum urmează:
 
-- **(a) Requests for Processing:** Other Circle Members may ask you to process any Accountability or Project on a Role you fill in the Circle. If you have no Next-Actions tracked for it, you must identify and capture a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on. That must be either a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions.
-- **(b) Requests for Projects & Next-Actions:** Other Circle Members may ask you to take on a specific Next-Action or Project in one of your Roles in the Circle. If you deem it a reasonable Next-Action or Project to take on, you must accept it and track it. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
-- **(c) Requests to Impact Domain:** Other Circle Members may ask to impact a Domain controlled by one of your Roles in the Circle. If you see no Objections to the request, you must allow it. If you do, you must explain any Objections to the requester.
+- **(a) Cererile de procesare:** Un Membru al Cercului poate să îți ceară să efectuezi orice responsabilitate sau proiect specific Rolului pe care îl aveți în Cerc. Dacă nu aveți nici o Acțiune Următoare stabilită pentru aceasta, atunci trebuie să identifici și să efectuezi o Acțiune Următoare în cazul în care există una rezonabilă ce o puteți lua. În cazul în care nu există, trebuie să exprimi ce așteptare ai. Aceasta poate fi o Acțiune Următoare sau un Proiect urmărit de către un alt Rol, sau un eveniment sau condiție care trebuie să se întâmple înainte de a putea lua o Acțiune Următoare.
+- **(b) Cererea de Proiecte și Acțiuni Următoare:** Alți Membrii ai Cercului îți pot solicita să faci o anumită Acțiune Următoare sau Proiect din unul dintre rolurile voastre din Cerc. Dacă consideri a fi o Acțiune Următoare sau Proiect rezonabil, atunci trebuie să-l accepți și să-l finalizezi. Dacă nu este ceva rezonabil, atunci trebuie să explici raționamentul tău pentru refuz sau comunici un alt Proiect sau Acțiune Următoare care credeți că va îndeplini Obiectivul solicitantului.
+- **(c) Solicitări cu Impact asupra Domeniului:** Alți  Membrii ai Cercului îți pot solicita să acționeze într-un domeniu controlat de unul din Rolurile dvs. din Cerc. Dacă nu vedeți nici o Obiecție cu privire la solicitarea făcută, trebuie să permiteți intervenția. Dacă vedeți însă o Obiecție, atunci trebuie să o explicați solicitantului.
 
-#### 4.1.3 Duty of Prioritization
+#### 4.1.3 OBLIGAȚIA PRIORITĂȚII
 
-You have a duty to prioritize where to focus your attention and resources in alignment with the following constraints:
+Ai obligația de a-ți stabili priorități în ce privește unde să îți concentrezi atenția și resursele, în aliniament cu următoarele constrângeri:
 
-- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Circle Members over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
-- **(b) Requested Meetings Over Execution:** On request of a fellow Circle Member, you must prioritize attending any Circle meeting required by this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
-- **(c) Circle Needs Over Individual Goals:** You must integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by the Circle’s Lead Link, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
+- **(a) Procesarea e peste Execuție:** În general, trebuie să acorzi prioritate în procesare la mesajele primite de la colegii Membrii ai Cercului comparativ cu propriile Acțiuni Următoare. Cu toate acestea, ai posibilitatea de a amâna această procesare, pentru a adresa toate aceste tipuri de solicitări într-un singur bloc de timp sau la un interval de timp mai convenabil, atâta timp cât prelucrarea lor este însă destul de promptă. Prelucrare înseamnă angajarea în funcțiile descrise în această secțiune, inclusiv cele ce au în vedere mesajul, definirea și capturarea de Acțiuni Următoare sau Proiecte atunci când este cazul, și, la cerere, răspunzând si cu modul în care mesajul a fost prelucrat. Prelucrare nu înseamnă executarea Acțiunilor Următoare și Proiecte care tocmai au fost generate, ele nefiind incluse în această regulă a priorității.
+- **(b) Întâlniri solicitate sunt peste Execuție:** La cererea unui coleg Membru al Cercului, trebuie să acorzi prioritate la participarea la orice Întâlnire a Cercului solicitată prin prezenta Constituție în favoarea executării propriile Acțiuni Următoare. Cu toate acestea, se poate refuza o altfel de cerere în cazul în care aveți deja alte planuri programate pe durata Întâlnirii sau în cazul în care cererea a fost pentru o serie sau un tip de întâlniri recurente comparativ cu o Întâlnire specific solicitată. 
+- **(c) Nevoile Cercului sunt peste Obiectivele Individuale:** Trebuie să te integrezi și să te aliniezi cu orice prioritate oficială sau Strategie a Cercului, precum cele specificate de Lead Link-ul Cercului, atunci când îți evaluezi modul în care îți vei aloca timpul, atenția și alte resurse pentru munca ta în cadrul Cercului.
 
-#### 4.1.4 Links May Convey Duties
+#### 4.1.4 LINK-URILE POT TRASA OBLIGAȚII
 
-As a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone else to engage the Circle Members of the Circle in the duties specified in this section. You may only extend this invitation to aid in the processing of a specific Tension affecting the entity you are linked from, and only if you also sense the Tension and stay engaged in its processing. The person you invite temporarily becomes a full Circle Member, as if he or she also fills your link role, but only while directly processing that specific Tension. You may withdraw this invitation anytime.
+Ca un Lead Link, Rep Link, sau Cross Link într-un cerc, puteți invita o altă persoană să implice Membri Cercului în îndatoririle specificate în această secțiune. Aveți dreptul să faceți această invitație doar pentru a sprijini prelucrarea unei Tensiuni specifice care afectează entitatea cu care ai legătură, și numai dacă ești conștient de Tensiune și rămâi angajat în prelucrarea ei. Persoana pe care tu ai invitat-o temporar devine un Membru de Bază al Cercului, ca și când ar împlini Rolul tău de Link, dar numai atâta timp cât contribuie în mod direct la prelucrarea acelei Tensiuni specifice. Puteți retrage oricând această invitație.
 
-#### 4.1.5 Implicit Expectations Hold No Weight
+#### 4.1.5 AȘTEPTĂRILE IMPLICITE NU AU NICI O VALOARE
 
-All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
+Toate responsabilitățile și constrângerile ca Partener al Organizației sunt definite în prezenta Constituție, precum și în Guvernanța rezultată din aceasta. Nici o fostă sau actuală așteptare, sau alte constrângeri implicite, dețin vreo autoritate sau au vreo valoare, cu excepția cazului în care Guvernanța unui Cerc le autorizează în mod explicit sau când provin dintr-o obligație de bază sau un acord contractual pe care îl ai tu personal cu organizația.
 
-### 4.2 Tactical Meetings
+### 4.2 INT LNIRILE TACTICE
 
-The Secretary of a Circle is responsible for scheduling regular **_“Tactical Meetings”_** to facilitate the Circle’s operations. The Facilitator is responsible for presiding over Tactical Meetings in alignment with the following rules and any relevant Policies of the Circle.
+Secretarul unui Cerc este responsabil pentru programarea regulată a **_"Întâlnirilor tactice"_**, pentru a facilita operațiunile cercului. Facilitatorul este responsabil pentru a prezida Întâlnirile Tactice în aliniere cu următoarele reguli și orice Politici relevante ale Cercului.
 
-#### 4.2.1 Focus & Intent
+#### 4.2.1 FOCUS ȘI INTENȚIE
 
-Tactical Meetings are for:
+Întâlnirile Tactice sunt pentru:
 
-- **(a)** sharing the completion status of recurring actions on checklists owned by the Circle’s Roles;
-- **(b)** sharing regular metrics assigned to the Circle’s Roles to report;
-- **(c)** sharing progress updates about Projects and other work owned by the Circle’s Roles; and
-- **(d)** triaging Tensions limiting the Circle’s Roles into Next-Actions, Projects, or other outputs that help reduce those Tensions.
+- **(a)** schimbul de informații cu privire la stadiul de finalizare a acțiunilor recurente de pe listele deținute de Rolurile Cercului;
+- **(b)** schimbul de informații cu privire la Măsurătorile regulate atribuite Rolurilor Cercului spre a fi raportate;
+- **(c)** actualizări cu privire la progresul Proiectelor și a altor sarcini aflate în responsabilitatea Rolurilor Cercului; și
+- **(d)** triajul Tensiunilor care limitează Rolurile cercului în Acțiunile lor Următoare, a Proiectelor sau a altor rezoluții care ajută la reducerea acestor Tensiuni.
 
-#### 4.2.2 Attendance
+#### 4.2.2 PREZENȚA
 
-All Core Circle Members and anyone else normally invited to participate in the Circle’s Governance Meetings are also invited to participate in its Tactical Meetings, unless a Policy says otherwise. There is no advance notice or quorum required for a Tactical Meeting, unless a Policy says otherwise.
+Toți Membrii de Bază ai Cercului și oricine altcineva care în mod normal este invitat să participe în Ședințele de Guvernanță ale Cercului sunt, de asemenea, invitați să participe la Întâlnirile Tactice, cu excepția cazului în care o Politică spune altfel. Nu există nici o aducere aminte sau cvorum minim necesar pentru o Întâlnire Tactică, cu excepția cazului în care o politică spune altceva.
 
-#### 4.2.3 Facilitation & Process
+#### 4.2.3 FACILITAREA ȘI PROCESUL
 
-The Facilitator must normally use the following process for Tactical Meetings:
+Facilitatorul trebuie să utilizeze în mod normal următorul proces pentru Întâlnirile Tactice:
 
-- **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** The Facilitator asks each participant to verify the completion of any recurring actions on that participant’s checklist.
-- **(c) Metrics Review:** The Facilitator asks each participant to share data for any metrics assigned to that participant by the Lead Link or whatever other Role or process defines the Circle’s metrics.
-- **(d) Progress Updates:** The Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles in the Circle. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another Circle Member explicitly requested updates on a specific Project, that one must be included until it’s either completed or dropped. For progress updates about a Project or Accountability of a Sub-Circle, the Facilitator must allow both the Lead Link and Rep Link of the Sub-Circle the opportunity to share updates.
-- **(e) Triage Issues:** The Facilitator is responsible for building an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants, using the same rules as those for a Governance Meeting, defined in Section 3.3.4. However, in Tactical Meetings, the Facilitator processes agenda items by simply allowing the agenda item owner to engage others in their Roles and duties as desired, until a path for resolving the Tension is identified. If any Next-Actions or Projects are accepted during this discussion, the Secretary is responsible for capturing them and distributing these outputs to all participants. The Facilitator must attempt to allow time for processing every agenda item within the meeting, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
-- **(f) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+- **(a) Runda de Check-in:** Facilitatorul permite pe rând fiecărui participant să împărtășească starea lor actuală sau ce gânduri au, sau să ofere un tip de comentariu la început de Întâlnire. Replicile nu sunt permise.
+- **(b) Revizuire Check-list:** Facilitatorul cere fiecărui participant să verifice finalizarea oricăror acțiuni recurente de pe propriul lor Check-list.
+- **(c) Revizuirea Măsurătorilor:** Facilitatorul cere fiecărui participant să anunțe valorile la Măsurătorile atribuite participantului respectiv de Lead Link sau de oricare alt Rol sau proces care definește Măsurătorile Cercului.
+- **(d) Actualizarea Progresului:** Facilitatorul cere fiecărui participant să sublinieze progresele înregistrate în vederea realizării oricărui Proiect sau a oricărei responsabilități din oricare dintre Rolurile sale din Cerc. Participanții pot menționa numai progresele realizate de la ultimul raport dat, și nu starea generală a unui proiect sau responsabilități. Fiecare participant poate decide ce proiecte sau responsabilitate merită spre a fi raportate, cu toate acestea, dacă un alt Membru al Cercului a solicitat în mod explicit actualizări privind un anumit proiect, acesta trebuie să fie inclus în raportare până când este fie finalizat, fie abandonat. Pentru actualizări de progres cu privire la un proiect sau responsabilitate a unui Sub-Cerc, Facilitatorul trebuie să permită atât Lead Link-ului cât și Rep Link din Sub-Cerc să aibă posibilitatea de a împărtăși propriile actualizări.
+- **(e) Triajul Tensiunilor:** Facilitatorul este responsabil pentru construirea unei agende de Tensiuni menită spre a fi procesată în respectiva Întâlnire Tactică solicitând contribuții de la toți participanții, și folosind aceleași reguli ca și cele pentru o Întâlnire de Guvernanță, așa cum e definit în secțiunea 3.3.4. Cu toate acestea, în Întâlnirile Tactice, Facilitatorul procesează elementele de pe ordinea de zi prin simpla invitație a Propunătorului punctului respectiv pe ordinea de zi de a angaja pe alții în Rolurile și sarcinile lor precum doresc, până când o cale pentru rezolvarea Tensiunii este identificată. În cazul în care o Acțiune Următoare sau Proiecte sunt acceptate în timpul acestei discuții, Secretarul este responsabil pentru capturarea și distribuirea acestor rezoluții  tuturor participanților. Facilitatorul trebuie să încerce să aloce timp pentru procesarea fiecărui element pe ordinea de zi, din cadrul respectivei întâlniri, iar în scopul realizării acestui lucru, poate tăia procesarea oricărui element care durează mai mult decât cota sa alocată de timp față de timpul de întâlnire rămas.
+- **(f) Runda de închidere:** Facilitatorul permite fiecărui participant pe rând să formuleze o reflecție de închidere sau un alt gând declanșat de această Întâlnire. Replicile nu sunt permise.
 
-A Circle may adopt a Policy to add to or change this required process.
+Un Cerc poate adopta o Politică prin care poate adăuga sau modifica acest proces cerut.
 
-#### 4.2.4 Surrogate for Absent Members
+#### 4.2.4 ÎNLOCUITORI PENTRU MEMBRII ABSENȚI
 
-If a Defined Role of the Circle is entirely or partially unrepresented at a Tactical Meeting due to someone’s absence, the Circle’s Lead Link may act within that Role to cover the gap. If the Lead Link is also absent, any participant may accept Next-Actions or Projects on behalf of that Role, however these may be treated by the person who normally fills the Role as just requests made under the terms of Section 4.1.2(b).
+În cazul în care un Rol Definit al Cercului este în întregime sau parțial nereprezentat la o Întâlnire Tactică din cauza absenței unei persoane, Lead Link-ul Cercului poate acționa în acest Rol pentru a acoperi golul. Dacă Lead Link-ul este de asemenea absent, orice participant poate accepta Acțiuni Următoare sau proiecte în numele acestui Rol, însă totuși, acestea pot fi tratate de persoana care împlinește în mod normal Rolul respectiv, ca cereri formulate în baza termenilor din secțiunea 4.1.2 (b).
 
-### 4.3 Individual Action
+### 4.3 ACȚIUNE INDIVIDUALĂ
 
-As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
+Ca Partener al Organizației, în unele cazuri ești autorizat să acționezi în afara autorității Rolurilor dumneavoastră, sau chiar să încalci regulile din această Constituție. Acționând în această autoritate extinsă vă asumași așa zisa **_"Acțiune Individuală"_**, și sunteți obligat să urmați următoarele reguli:
 
-#### 4.3.1 Allowed Situations
+#### 4.3.1 SITUAȚII PERMISE
 
-You may only take Individual Action when all of the following are true:
+Puteți lua o Acțiune Individuală numai atunci când toate caracteristicile următoare sunt adevărate:
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization, or of the overall Organization itself.
-- **(b)** You reasonably believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not cause, commit to, or allow spending or otherwise disposing of the Organization’s resources or other assets, beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Domains or Policies, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
+- **(a)** Acționezi cu bună-credință pentru a servi scopul sau a exprima Responsabilitatea unui anumit Rol din cadrul Organizației, sau la nivelul întregii Organizații.
+- **(b)** Crezi în mod rezonabil că acțiunea dvs. ar rezolva sau preveni o Tensiune mai mare pentru organizația decât s-ar crea în mod normal.
+- **(c)** Acțiunea dvs. nu ar cauza, ar angaja sau ar permite cheltuieli sau ar folosi resursele organizației sau a altor active, dincolo de ceea ce sunteți deja autorizat să folosiți.
+- **(d)** În cazul în care acțiunea dvs. ar încălca vreun domeniu sau politică existentă, aveți în mod rezonabil credința că nu se poate întârzia acțiunea suficient de mult pentru a solicita permisiunile necesare sau să propuneți o schimbare în Guvernanță care să vă permită acțiunea dvs., fără a pierde o mare parte din valoarea sa potențială.
 
-#### 4.3.2 Communication & Restoration
+#### 4.3.2 COMUNICARE ȘI RESTAURARE
 
-Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
+Odată cu luarea unei Acțiuni Individuale, aveți datoria de a explica acțiunea dumneavoastră și intenția din spatele acesteia oricărui Partener care împlinește un Rol care ar putea fi semnificativ afectat de ce ați făcut. La cererea oricăruia dintre acești Parteneri, aveți, de asemenea, obligația de a lua orice măsuri suplimentare rezonabile pentru a ajuta la rezolvarea oricărei Tensiuni create de Acțiunea dvs. Individuală.
 
-If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of the Lead Link of the Circle holding the affected entity.
+În cazul în care Acțiunea dvs. Individuală a fost efectiv realizată în cadrul unui alt Rol, sau a încălcat un Domeniu sau o Politică, atunci trebuie să încetezi în a continua  să faci Acțiuni Individuale similare, până când vei face o cerere către cel care controlează în mod normal acel Rol, Domeniu, sau Politică, sau către Lead Link-ului Cercului care deține entitatea afectată.
 
-#### 4.3.3 Clarifying Governance
+#### 4.3.3 CLARIFICAREA GUVERNANȚEI
 
-If your Individual Action is an instance of a recurring activity or ongoing function needed by a Circle, and that activity or function is not already explicitly called for by the Circle’s Governance, then you are responsible for taking follow-up steps to remove that gap. That follow-up could include proposing Governance to cover the need, or taking steps to remove the need for this activity or function to happen in the first place.
+În cazul în care Acțiunea dvs. Individuală prezintă contextul unei activități recurente sau a unei funcții necesare în Cerc, iar activitatea sau funcția nu este deja formulată în mod explicit de Guvernanța Cercului, atunci sunteți responsabil pentru luarea de măsuri pentru a elimina acest decalaj. Această responsabilitate poate include o propunere de Guvernanță pentru a acoperi necesitatea, sau de a lua măsuri pentru a elimina nevoia pentru ca această activitate sau funcție să se mai întâmple vreodată.
 
-#### 4.3.4 Priority of Corollary Requirements
+#### 4.3.4 PRIORITATEA CERINȚEI COROLARULUI
 
-After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, the Lead Link of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
+După ce ai luat Acțiunea Individuală, aveți datoria să acordați prioritate față de cerințele corolare definite în această secțiune, mai mult decât a face oricare dintre activitățile voastre regulate. Cu toate acestea, Lead Link-ul din orice Cerc care conține pe deplin toate Rolurile care au fost afectate în mod semnificativ de acțiunea dumneavoastră poate schimba această prioritate implicită.
 
-## Article V: Adoption Matters
+## ARTICOLUL V: CONTEAZĂ ADOPTAREA
 
-### 5.1 Ratifiers Cede Authority
+### 5.1 SEMNATARII CEDEAZĂ AUTORITATEA
 
-By adopting this Constitution, the Ratifiers cede their authority to govern and run the Organization or direct its Partners, and may no longer do so except through authority granted to them under the Constitution’s rules and processes. However, as an exception to this rule, the Ratifiers may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization’s bylaws.
+Prin adoptarea acestei Constituții, Semnatarii ei cedează autoritatea lor de a guverna și conduce Organizația sau de a coordona în mod direct Partenerii săi, și nu mai poate face acest lucru decât cu excepția și prin autoritatea acordată acestora în conformitate cu normele și procesele actualei Constituții. Totuși, face excepție de la această regulă, orice autoritate pe care Semnatarii nu au posibilitatea de a o delega continuând deci să o dețină și să o exercite, cum ar fi orice cerință impusă de politici din afara controlului lor, sau de către statutului legal al Organizației.
 
-### 5.2 Anchor Circle
+### 5.2 CERCUL ANCORĂ
 
-Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls.
+Înainte de adoptarea acestei Constituții, Semnatarii trebuie să stabilească un Cerc inițial care să exprime Scopul general al Organizației. Acest **_"Cerc Ancoră"_** devine cel mai larg Cerc din Organizației și controlează automat toate domeniile pe care Organizația însăși le controlează.
 
-#### 5.2.1 Links to the Anchor Circle
+#### 5.2.1 LEGĂTURI LA CERCUL ANCORĂ
 
-The Ratifiers may appoint an initial Lead Link of the Anchor Circle.
+Semnatarii pot numi un Lead Link inițial al Cercului Ancoră.
 
-Alternatively, the Ratifiers may leave the Anchor Circle without a Lead Link, and create one or more initial Cross Links to the Anchor Circle in lieu of a Lead Link.
+În mod alternativ, Semnatarii pot lăsa Cercul Ancoră fără un Lead Link, și să creeze una sau mai multe Cross Link-uri la Cercul Ancoră, în locul unui Lead Link.
 
-#### 5.2.2 Acting Without a Lead Link
+#### 5.2.2 ACȚIONAREA FĂRĂ UN LEAD LINK
 
-If the Anchor Circle has no Lead Link, all decisions that normally require Lead Link authority become valid outputs of the Circle’s Governance Process. Any Role within the Circle may thus exercise Lead Link authority by proposing a decision as a Governance change for the Circle, using the process and rules in Article III.
+În cazul în care Cercul Ancoră nu are un Lead Link, toate deciziile care necesită în mod normal autoritatea unui Lead Link devin rezoluții valide pentru Procesul de Guvernanță a Cercului. Orice Rol din cadrul Cercului poate, astfel, exercita autoritatea unui Lead Link, propunând o decizie precum schimbarea Guvernanței Cercului, folosind procesul și normele prevăzute la articolul III.
 
-Further, in an Anchor Circle with no Lead Link, the normal authority of Roles to autocratically impact Circle Domains (per Section 2.1.2) is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by proposing the action using the Circle’s Governance Process, exactly as described above for exercising Lead Link authority.
+În plus, într-un Cerc Ancoră fără Lead Link, autoritatea normală a Rolurilor de a avea un impact autocratic asupra Domeniilor Cercului (precum în Secțiunea 2.1.2) este revocată. În schimb, Rolurile Cercului pot avea impact asupra Domeniile sale doar dacă o Politică permite în mod explicit acest lucru, sau, în mod alternativ, prin propunerea de acțiuni folosind Procesul de Guvernanță a Cercului, exact așa cum s-a descris mai sus pentru exercitarea autorității Lead Link-ului.
 
-#### 5.2.3 Organization’s Purpose
+#### 5.2.3 SCOPUL ORGANIZAȚIEI
 
-The Anchor Circle is automatically accountable for discovering and expressing the Purpose of the overall Organization. The Purpose of the Organization is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. That includes its history, current capacities, available resources, Partners, character, culture, business structure, brand, market awareness, and all other relevant resources or factors.
+Cercul Ancoră este automat responsabil pentru a descoperi și a exprima Scopul general al Organizației. Scopul Organizație este cel mai profund potențial creativ care poate fi exprimat în mod durabil în lume, având în vedere toate constrângerile care acționează asupra ei, dar și tot de ce dispune. Acest lucru poate include istoria sa, capacitățile actuale, resursele disponibile, Parteneri, caracterul, cultura, structura de afaceri, marca, conștientizarea pieței, precum și orice alte resurse sau factori relevanți.
 
-The Anchor Circle’s Lead Link inherits this Accountability by default, and may capture and update the Purpose to express this Accountability.
+Lead Link-ul Cercului Ancoră preia această Responsabilitate în mod implicit, și poate capta și actualiza Scopul pentru a-și exprima această Responsabilitate.
 
-If the Anchor Circle has no Lead Link, this Accountability automatically falls upon each Cross Link to the Anchor Circle instead, and any of them may update the Purpose by proposing the update via the Circle’s Governance Process.
+În cazul în care Cercul Ancoră nu are un Lead Link, această Responsabilitate ajunge în mod automat la oricare Cross Link a Cercului Ancoră, și oricare dintre aceștia poate să actualizeze Scopul prin intermediul Procesului de Guvernanță a Cercului. 
 
-#### 5.2.4 Updating the Anchor Circle
+#### 5.2.4 ACTUALIZAREA CERCULUI ANCORĂ
 
-The Lead Link of the Anchor Circle has the authority to name the Circle, clarify its Domains, and add or modify its Accountabilities.
+Lead Link-ul Cercului Ancoră are autoritatea de a numi Cercul, a clarifica Domeniile sale, și a adăuga sau modifica Responsabilitățile sale.
 
-The Lead Link of the Anchor Circle may also appoint his or her own replacement as desired, unless otherwise specified by the Ratifiers.
+Lead Link-ul Cercului Ancoră poate numi, de asemenea, propriul său înlocuitor  după cum dorește, cu excepția cazului în care se prevede altfel de către Semnatari.
 
-#### 5.2.5 No Super-Circle
+#### 5.2.5 FĂRĂ SUPER-CERC
 
-The Anchor Circle has no Super-Circle, and does not elect a Rep Link.
+Cercul Ancoră nu are nici un Super-Cerc, și nu alege nici un Rep Link.
 
-### 5.3 Initial Structure
+### 5.3 STRUCTURA INIȚIALĂ
 
-The Lead Link of the Anchor Circle may define an initial structure and other Governance for the Organization, outside of the usual Governance Process required by this Constitution. If that initial structure includes any other Circles, the Lead Links of those Circles may do the same within their Circles. This authority may only be used to define an initial structure for a Circle to start from, before the Circle has begun conducting its Governance Process.
+Lead Link-ul Cercului Ancoră poate defini o structură inițială și altele Guvernanțe pentru Organizație, în afara Procesului de Guvernanță uzual cerut de această Constituție. În cazul în care structura inițială include și alte Cercuri, Lead Link-urile din aceste cercuri pot face același lucru în cadrul cercurilor lor. Această autoritate poate fi utilizată doar pentru a defini o structură inițială pentru un Cerc, înainte ca Cercul să înceapă efectiv să își desfășoare propriul Proces de Guvernanță.
 
-### 5.4 Legacy Policies and Systems
+### 5.4 POLITICI ȘI SISTEME MOȘTENITE
 
-Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that are not reflected in Governance records. This may include compensation systems, hiring and firing processes, work-related policies, etc.
+Orice politici și sisteme existente ale Organizației, aflate în vigoare înainte de adoptarea acestei Constituții, rămâne mai departe valide după adoptarea acesteia, chiar dacă acestea includ constrângeri sau autorități care nu sunt reflectate în rezoluțiile Procesului de Guvernanță. Acestea pot include sistemele de beneficii și compensații, procesele de angajarea și concediere, politicile legate de organizarea muncii, etc.
 
-However, these legacy policies and systems will lose all weight and authority as soon as Governance is defined that replaces or contradicts them. In addition, they may not be modified or added to in their legacy form. Anyone wishing to do so must first capture or otherwise empower the policy or system using the Governance Process defined in this Constitution.
+Cu toate acestea, aceste politici și sisteme existente vor pierde din relevanță și autoritate de îndată ce o Guvernanță este definită, iar aceasta o poate înlocui sau anula. În plus, ele nu pot fi modificate sau adăugate în forma lor moștenită înainte de adoptarea Constituției. Oricine care dorește să facă acest lucru trebuie să cuprindă sau să împuternicească într-un fel respectiva politică sau sistem, folosindu-se de Procesul de Guvernanță definit în prezenta Constituție.
 
-### 5.5 Constitution Amendments and Repeal
+### 5.5 AMENDAMENTE LA CONSTITUȚIE ȘI ABROGAREA EI
 
-The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
+Semnatarii sau succesorii acestora pot modifica această Constituție sau să o abroge în întregime, folosind orice autoritate și proces pe care s-au bazat când au adoptat-o inițial. Amendamentele trebuie să fie făcute în scris și publicate către toți partenerii Organizație unde aceștia le pot accesa.
 
 ---
 
